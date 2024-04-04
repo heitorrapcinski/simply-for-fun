@@ -30,5 +30,6 @@
         "zosmf": "zxplore.zosmf",
         "base": "base"
     },
-    "plugins": []
+    "plugins": [],
+    "autoStore": true
 }
