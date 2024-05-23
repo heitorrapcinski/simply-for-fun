@@ -32,6 +32,8 @@
 
 [IBM z/OS Communications Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
 
+[TCP/IP Protocol Overview](https://learn.ibm.com/course/view.php?id=6239)
+
 ### Z/OS Programming
 
 [z/Architecture Assembler language: Part 1](https://learn.ibm.com/course/view.php?id=12127) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/318fe897-0f77-4927-b7ec-520a43cc7d14/public_url)
@@ -39,6 +41,8 @@
 [z/Architecture Assembler language: Part 2](https://learn.ibm.com/course/view.php?id=12408)
 
 [z/OS REXX Programming](https://learn.ibm.com/course/view.php?id=8722)
+
+[Working with Integration Components of IBM Z System Automation](https://learn.ibm.com/course/view.php?id=12794)
 
 ### Z/OS Development
 
