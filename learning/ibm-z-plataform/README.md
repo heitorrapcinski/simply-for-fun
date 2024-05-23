@@ -67,3 +67,5 @@
 [OpenMainframe - Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 
 [IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
+
+[An Introduction to IBM z/OS Container Extensions (zCX)](https://www.youtube.com/watch?v=xy7NReyUnrE)
