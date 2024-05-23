@@ -1,2 +1,3 @@
-# portfolio-like-a-boss
-Portfolio Like a Boss
+# My Portifolio
+
+[This is my learning trail to IBM Z Plataform](/learning/ibm-z-plataform/README.md)
