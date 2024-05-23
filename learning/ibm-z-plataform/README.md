@@ -26,6 +26,12 @@
 
 [IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
 
+[z/OS Systems Services Structure](https://learn.ibm.com/course/view.php?id=11332)
+
+[SMP/E for z/OS](https://learn.ibm.com/course/view.php?id=11233)
+
+[IBM z/OS Communications Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
+
 ### Z/OS Programming
 
 [z/Architecture Assembler language: Part 1](https://learn.ibm.com/course/view.php?id=12127) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/318fe897-0f77-4927-b7ec-520a43cc7d14/public_url)
