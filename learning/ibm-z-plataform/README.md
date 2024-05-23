@@ -16,5 +16,9 @@
 
 ## Courses in [IBM Z Xplore](https://ibmzxplore.influitive.com)
 
+[Fundamentals + Concepts](https://ibmzxplore.influitive.com/channels/1) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/e2ba1e3a-0a4d-406f-9dd2-56699d29674c/public_url)
+
+[Advanced](https://ibmzxplore.influitive.com/channels/4) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/baefe8ca-9ec1-47e6-891b-3279e9dafdd1/public_url)
+
 
 
