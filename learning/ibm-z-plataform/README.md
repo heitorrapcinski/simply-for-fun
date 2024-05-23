@@ -14,6 +14,18 @@
 
 [Introduction to System Programming on IBM Z](https://learn.ibm.com/course/view.php?id=7512) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/45b86a86-1e99-4ead-9c4c-7b737bc36c27/public_url) [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/7e06dfdb-f76d-4a41-ae88-e9f51bcfce60/public_url)
 
+[IBM CICS Video Course Series]("https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
+
+### Z/OS Programming
+
+[z/Architecture Assembler language: Part 1](https://learn.ibm.com/course/view.php?id=12127) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/318fe897-0f77-4927-b7ec-520a43cc7d14/public_url)
+
+[z/Architecture Assembler language: Part 2](https://learn.ibm.com/course/view.php?id=12408)
+
+[OpenMainfram - Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
+
+[Cobol Programing Course](https://learn.ibm.com/course/view.php?id=7552)
+
 ## Courses in [IBM Z Xplore](https://ibmzxplore.influitive.com)
 
 [Fundamentals + Concepts](https://ibmzxplore.influitive.com/channels/1) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/e2ba1e3a-0a4d-406f-9dd2-56699d29674c/public_url)
