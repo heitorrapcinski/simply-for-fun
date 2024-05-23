@@ -24,8 +24,6 @@
 
 [IMS Diagnostics](https://learn.ibm.com/course/view.php?id=7405)
 
-[IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
-
 [z/OS Systems Services Structure](https://learn.ibm.com/course/view.php?id=11332)
 
 [SMP/E for z/OS](https://learn.ibm.com/course/view.php?id=11233)
@@ -64,4 +62,6 @@
 
 [Extended](https://ibmzxplore.influitive.com/channels/11) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/47966dbd-a082-4d3c-b5b9-52377e5772d2/public_url)
 
+## Others
 
+[IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
