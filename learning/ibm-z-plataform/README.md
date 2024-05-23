@@ -20,5 +20,6 @@
 
 [Advanced](https://ibmzxplore.influitive.com/channels/4) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/baefe8ca-9ec1-47e6-891b-3279e9dafdd1/public_url)
 
+[Extended](https://ibmzxplore.influitive.com/channels/11) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/47966dbd-a082-4d3c-b5b9-52377e5772d2/public_url)
 
 
