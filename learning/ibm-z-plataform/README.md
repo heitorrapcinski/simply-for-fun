@@ -50,6 +50,12 @@
 
 [Cobol Programing Course](https://learn.ibm.com/course/view.php?id=7552) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/24e207d5-32da-4365-a776-804faa595f48/public_url)
 
+### Z/OS Security
+
+[z/OS networking security foundations](https://learn.ibm.com/course/view.php?id=6239)
+
+[Hacking the Mainframe](https://learn.ibm.com/course/view.php?id=15189)
+
 ## Courses in [IBM Z Xplore](https://ibmzxplore.influitive.com)
 
 [Fundamentals + Concepts](https://ibmzxplore.influitive.com/channels/1) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/e2ba1e3a-0a4d-406f-9dd2-56699d29674c/public_url)
