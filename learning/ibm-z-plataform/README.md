@@ -12,7 +12,7 @@
 
 [Introduction to System Programming on IBM Z](https://learn.ibm.com/course/view.php?id=7512) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/45b86a86-1e99-4ead-9c4c-7b737bc36c27/public_url) [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/7e06dfdb-f76d-4a41-ae88-e9f51bcfce60/public_url)
 
-[IBM CICS Video Course Series]("https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
+[IBM CICS Video Course Series](https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
 
 [Modernize applications with IBM CICS](https://learn.ibm.com/course/view.php?id=8410)
 
