@@ -62,6 +62,8 @@
 
 [IBM z/OS Communications Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
 
+[IBM z16 Technical Introduction](https://learn.ibm.com/pluginfile.php/1851823/mod_resource/content/1/IBM%20z16%20Technical%20Introduction.pdf)
+
 ## Others
 
 [OpenMainframe - Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
