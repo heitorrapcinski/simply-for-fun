@@ -1,0 +1,1595 @@
+# English Review
+>Inter 1 **complete**
+>
+>Inter 2 **complete**
+>
+>Inter 3 249-278  
+>
+## VERB TENSES
+>Inter 1 pages: 169, 177 
+>
+>Inter 3 pages 250, 251, 259, 261, 267, 268, 274
+>
+- PAST CONTINUOUS
+    - Actions in progress during a period of time in the past.
+    - Emphasis on duration
+        - Lia was studying from seven to eleven a.m.
+    - Interrupted action
+        - I was taking a shower when you called.
+    - Simultaneous actions in progress in the past
+        - I was cooking dinner and my husband was taking care of the baby.
+    - Affirmative: Subject + Verb To Be in the Past + Main Verb in -ING Form + Complement
+        - She was having breakfast when you called.
+    - Negative: Subject + Verb To Be in the Past + Not + Main Verb in -ING Form + Complement
+        - I wasn't watching videos, I was studying.
+    - Interrogative: Subject + Verb To Be in the Past + Not + Main Verb in -ING Form + Complement
+        - Were you working yesterday in the evening?
+- SIMPLE PAST VS. PAST CONTINUOUS
+    - Simple Past
+        - Single action completed at a point in the past.
+        - Affirmative Form: Regular and Irregular verbs
+        - Negative Form: Auxiliary Didn’t + Verb
+        - Interrogative Form: Auxiliary Did + Subj. + Verb
+    - Past Continuous
+        - Action that was in progress for a while in the past.
+        - Affirmative Form: To Be (past) + Verb in –ING
+        - Negative Form: To Be (past neg.) + Verb in –ING
+        - Interrogative Form: To Be + Subj. + Verb in –ING
+    - The simple past and the past continuous can appear together, even though they are very different.
+        - Case 1: One action in progress interrupted another action.
+            - Lyla was taking a shower when Michael called. 
+        - Case 2: An action was in progress until another action happened. 
+            - Lia was drinking coffee until her boyfriend arrived
+        - Connectors
+            - It is important to notice that in these cases there are two sentences linked by a connector. 
+            - Examples
+                - Nick was doing his homework before you arrived. (before connect past continuos + simple past)
+                - Lyla set the table while Mia was preparing the dessert. (while connect simple past + past continuos)
+                - Henry was taking a shower when his girlfriend called. (when connect past continuos + simple past)
+- SIMPLE PRESENT AND PRESENT CONTINUOUS FOR FUTURE
+    - Future can be expressed in English in different ways:
+    - Simple Present
+        - Used to refer to actions that are part of a schedule. The use of time expressions is extremely important to indicate the future.
+        - Examples
+            - Christmas **is** in December. 
+            - I can't travel because I **work** this weekend.
+            - My flight **departs** at eight a.m.
+    - Present Continuous
+        - Used to refer to appointments, dates, or commitments that are pre-arranged and confirmed. 
+        - Examples
+            - **I'm seeing** the doctor **tomorrow at nine a.m.** 
+            - **I'm having** lunch with my boss **tomorrow at one p.m.** 
+            - **I'm talking** with the suppliers **tomorrow at four p.m.** 
+            - **I'm having dinner** with Leo **tomorrow at eight p.m.**
+- PRESENT PERFECT
+    - Refers to the past from a present perspective
+    - Actions that happened in the past but affect the present → **Relevance**
+    - Actions that started in the past and continue into the present → **Continuity**
+    - Structure
+        - Affirmative
+            - Subject + Have/Has + Verb in Past Participle + Complement
+                - Juliet **has fallen** in love with Romeo. 
+                - My students **have read** Romeo and Juliet many times
+        - Negative
+            - Subject + Have Not/Has Not + Verb in Past Participle + Complement
+                - I **haven't eaten** anything since breakfast. I'm very hungry. 
+                - Nina is a vegetarian. She **hasn't had** any meat for years.
+        - Interrogative
+            - Have/Has + Subject + Verb in Past Participle + Complement
+                - **Have** you **thought** about modeling?
+                - **Has** your friend **confirmed** attendance to the wedding?
+    - Past Participle
+        - Regular Verbs 
+            - Same form as in the simple past - Terminations –D, –ED, or –IED
+        - Irregular Verbs 
+            - Third column of the list found at the end of this Language Guide
+    - First Use—Present Perfect: Action that is Relevant to the Present 
+        - It refers to an action or event that happened in the past with relevance, influence, or results in the present, whose time is unknown or irrelevant
+        - Example in Dialog
+            - Nick – What are you doing? 
+            - Leo – I’m studying this new software, but it’s so difficult. 
+            - Nick – Oh, I **have used** this before. Let me try to help you.
+            - Nick used the same software at **some moment in the past** and, because of that, he can help Leo **now**. 
+            - The **exact time** when Nick used the software is **not relevant** to this situation, only his current knowledge. 
+    - Second Use—Present Perfect: Focus on Continuity
+        - It refers to an action or event that started in the past and continues into the present
+        - Examples
+            - Since
+                - I've studied English.
+                    - Completed action in the past.
+                - I've studied English **since** 1995. 
+                    - **Since** marks the beginning of the action, so it still happens in the present.
+            - For
+                - I've studied English **for** twenty years. 
+                    - Now, we use **for** to refer to the duration of the activity, but it does not necessarily infer that it has a continuous aspect.
+                    - Open to two interpretations depending on context:
+                        - 1. The action started twenty years ago and it still happens in the present.
+                        - 2. The action lasted twenty years but has been completed alread
+    - Present Perfect with Adverbs
+        - Position of Adverbs 
+            - Generally between the auxiliary verb have and the main verb 
+            - Exception: "Yet" comes at the end of the sentence
+        -  Always
+            - Context: Timmy spends a lot of money on trips and his dad doesn’t understand it. 
+            - Dialog
+                - Paul – Mary, Timmy is losing control. He needs to be more responsible. 
+                - Mary – Don't be like that. Timmy **has always loved** to travel and he does what he wants with his money. (Always → 100% of time since he was born)
+        - Never
+            - Context: Peter and Janet are receiving Julia for dinner and Peter suggests ordering Japanese. 
+            - Dialog
+                - Peter – So, let's order some Japanese tonight?
+                - Janet – I don't know. Julia **has never eaten** Japanese food, maybe Italian is better. (Never → 0% of time since she was born)
+        - Already
+            - Context: Ian is planning his holiday and he is thinking about going to Jamaica but he wants tips.
+            - Dialog 
+                - Ian – Mark, have you been to Jamaica? I'm looking for tips. 
+                - Mark – Well, I haven't, but Michael **has already traveled** to Jamaica, he might shed some light there. (Already → Before now) 
+        - Ever 
+            - Context: Mia is enrolling at a Spanish course and it is her placement exam. 
+            - Dialog
+                - Coordinator – So, Mia, **Have you ever studied** a foreign language? 
+                - Mia – Not really. I took some classes at school, but nothing much. (Ever → At any time)
+        - Yet
+            - Context: Ken wants to take his girlfriend on a surprise trip and he is planning it with her mother. 
+            - Dialog
+                - Ken – Maggie, I want to surprise Stacy with a trip, but I don’t know where to go. 
+                - Maggie – Well, she **hasn't been** to China nor Japan **yet**, but I know she loves Asian culture. (Yet → At this time, but might sometime in the future)
+- VERBS FOLLOWED BY GERUND OR INFINITIVE
+    - Intransitive 
+        - Don’t require complements to complete meaning.
+    - Transitive 
+        - Require complements to complete meaning. 
+            - Nouns or Pronouns
+            - Verbs 
+                - Infinitive and Gerund
+                - Only Infinitive
+                - Only Gerund
+    - Verbs that take only the Infinitive as a complement:
+        - Agree → Michael agreed to speak to the officer. 
+        - Fail → Lana fails to understand the reason we moved out. 
+        - Request → The defense requests to approach the bench. 
+        - Swear → I swear to tell the truth, no matter what. 
+        - Plan → Leo plans to travel on his own next summer. 
+        - Prepare → Bia got married and now she’s preparing to be a mother. 
+        - Choose → We choose to save up in order to buy a car. 
+        - Get → This is your final chance. You won’t get to try again. 
+        - Wait → Wait to see what’s coming next!
+        - Seem → Larry seems to be worried about something. 
+        - Want → I really want to go on vacation soon.
+        - Wish → My mother wishes to live more than one hundred years. 
+        - Ask → We told Paul we were driving home and he asked to come with us.
+    - Verbs and expressions that take only the Gerund as a complement:
+        - Enjoy → Layla enjoys cooking lunch for her family.
+        - Feel like → I don't feel like playing sports at night.
+        - Finish → Chris needs to finish doing his homework.
+        - Consider → Nicholas never considered having pets.
+        - Can't help → Douglas can't help disagreeing with his parents.
+        - Suggest → Mary suggested taking a cab instead of driving to the wedding.
+        - Recommend → Specialists recommend sleeping in complete darkness.
+        - Miss → I miss having my weekends free. 
+        - Quit → Julia quit smoking years ago.
+        - Understand → The teacher understands his being late. 
+        - Practice → Today we're going to practice parking.
+    - Some verbs will accept different complements according to the meaning they infer. 
+        - Verb to Ask
+            - Meaning "request" → He asked to come with us. 
+            - Meaning "seek an answer" → He asked a question. 
+        - In both possibilities, you can include an object. 
+            - He asked us to come along. 
+            - He asked me a question.
+- VERBS FOLLOWED BY GERUND AND INFINITIVE WITH NO CHANGE IN MEANING
+    - Verbs that may be followed by gerund or infinitive without change in meaning
+        - Joan started to take English classes = Joan started taking English classes.
+        - Professor Peters began to talk at nine a.m. = Professor Peters began talking at nine a.m.
+        - My students hate to take tests. = My students hate taking tests. 
+        - Hugo loves to chat online. = Hugo loves chatting online. 
+        - Mario can’t stand waking up early. = Mario can’t stand to wake up early. 
+        - Grant prefers to travel by car. = Grant prefers traveling by car. 
+        - Lenny will continue to study languages. = Lenny will continue studying languages.
+- VERBS FOLLOWED BY GERUND AND INFINITIVE WITH CHANGE IN MEANING
+    - Verbs that take both gerund and infinitive with change in meaning
+    - To Forget 
+        - Lilian **forgot to call** her husband. 
+            - She had to do something but she forgot to. 
+        - Lilian **forgot calling** her husband.  
+            - She did call her husband but she doesn’t remember having done it. 
+    - To Remember
+        - Mick **remembered to tell** Mary to wait. 
+            - He had to do something and he didn't forget to. 
+        - Mick **remembers telling** Mary to wait. 
+            - He, now, remembers something he did in the past. 
+    - To Go On
+        - Kim must **go on working** on her report. 
+            - To go on, in this case, means "to continue." 
+        - Kim **went on to explain** things instead of working on her report. 
+            - In this case, to go on infers a change in action.
+    - To Stop
+        - John **stopped** the game **to grab a bite**.
+            - He stopped something in order to do something else. 
+        - John **stopped playing** the game. 
+            - He quit an ongoing action.
+    - To Try
+        - **Try restarting** the program to see if it works better. 
+            - To make an experiment.
+        - **Try to restart** the program if the computer doesn't freeze. 
+            - To make an effort to do something difficult.
+                - In this situation, it is also possible to use the gerund.  
+- PRESENT PERFECT CONTINUOUS
+    - It refers to an action or event that started in the past and continues up to now.
+    - The speaker focuses on showing the progression or continuity of this action or event.
+    - When referring to continuity, the present perfect continuous and the present perfect are interchangeable.
+    - Structure
+        - Affirmative → Subject + Have/Has + Been + Verb in –ING Form
+            - Examples
+                - **I've been doing** exercises every day in order to lose weight
+                - Turk **has been traveling** a lot on business
+        - Negative → Subject + Have not/Haven't or Has not/Hasn't + Been + Verb in –ING Form 
+            - Examples
+                - Leo **hasn't been practicing** the piano lately. 
+                - The students **haven't been feeling** enthusiastic about the new activities
+        - Interrogative → Have/Has + Subject + Been + Verb in –ING Form
+            - **Have** Tommy and Stella **been going** out together?
+            - **Has** the company **been hiring** new employees?    
+- PRESENT PERFECT CONTINUOUS VS. PRESENT PERFECT VS. SIMPLE PAST    
+    - Simple Past
+        - Isolated action that started and finished at a specified moment in the past.
+        - Tim – I lived in a country house but we moved to the city in 1978 because of dad’s job. 
+    - Present Perfect
+        - Focus on continuity and duration
+        - Action that happened at an unknown or irrelevant moment in the past with relevance, influence or result in the present. The speaker looks to the past from the present
+        - First Use
+            - I've lived in a country house before we moved to the city because of dad's job. Maybe that's why I don't really like living in an apartment.
+        - Second Use
+            - I've lived in a country house since I was little, so I'm reluctant to live in an apartment.
+    - Present Perfect Continuous
+        - Action that started in the past and continues up to the present.
+        - I've been living in a country house since I was little, so I'm reluctant to live in an apartment.
+## GIVING ADVICE
+>Inter 2 pages: 222  
+>
+- Suggestions and recommendations
+- You can use modals or semi-modals
+- Modal Verbs
+    - Should
+        - frequently used when giving advice
+        - If you're driving, you shouldn't drink
+    - Must
+        - can also be used for this end, but it has a stronger meaning as it has the idea of obligation as well.
+        - You must take a cab if you drink alcohol.
+    - Mustn't
+        - on the other hand, gives the idea of prohibition.
+        - You mustn't drink and drive. It is against the law
+- Semi-modals
+    - Ought To
+        - It has the same meaning of the modal verb should; however, it is not as common in everyday speech
+        - People ought to be more respectful to one another.
+    - Have To
+        - gives an idea of necessity that exists due to external factors.
+        - Mike has to respect his colleagues.
+    - Had Better
+        - it is considered a strong expression. It implies there will be negative results if someone does not do what is suggested.
+        - Affirmative
+            - We had better leave before it rains.
+            - Had better will commonly appear in its short form: 'd
+                - We'd better leave before it rains.
+        - Negative
+            - We had better not leave after it starts raining.
+        - Interrogative
+            - This structure isn't usually used in the interrogative form. However, in the negative, it is possible.
+            - Hadn't we better leave before it rains?
+- Expressions
+    - If I were you, I would
+        - If I were you, I would study more before the exams.
+    - The best thing to do is
+        - The best thing to do is be dedicated now rather than regretting it in the future.
+    - Take my advice
+        - Take my advice: get used to studying because you will do it forever.
+    - Here is what I have to say
+        - Here is what I have to say: if you don't commit to your studies, you might regret it.
+## MODAL EXPRESSIONS
+>Inter 1 pages 200  
+>
+>Inter 2 pages 227, 234, 245  
+>
+- Contain similar meanings to those of modal verbs.
+- Might substitute modal verbs in certain situations.
+- Use
+    - Might sometimes substitute modal verbs 
+    - Have only one meaning
+- Structure 
+    - Verb To Be + Verbs or Other Complements 
+        - Verb To Be - Can be used in any verb form according to the speaker's need.
+- Be Able To
+Be Willing To
+Be Supposed To
+    - Affirmative: Subject + Be + Able To / Willing To / Supposed To + Main Verb
+        - I had a terrible backache, so I was only able to return to work after two days.
+    - Negative: Subject + Be + Not + Able To / Willing To / Supposed To + Main Verb
+        - Girls, get inside! You are not supposed to play in the rain...
+    - Interrogative: Be + Subject + Able To / Willing To / Supposed To + Main Verb
+        - Being successful doesn't mean you will never fail: it means you always answer "yes" when you hear the question: Are you willing to try again?
+    - Verb To Be (past, present, or future)
+        - able to
+            - Ability
+            - to be in a situation in which it is possible for you to do something
+            - to have the skill to do something
+            - Examples
+                - I am able to run a marathon.
+                - Sorry, I won't be able to help you with that.
+        - willing to
+            - to be prepared to do something 
+            - having no objection against doing something
+            - Examples
+                - I'm willing to work overtime to finish this report today.
+                - I missed a great job opportunity two years ago. Back then, I wasn't willing to relocate, but now, I deeply regret that...
+        - supposed to
+            - Obligation and Expectation (external)
+            - to say what someone should or should not do, especially because of rules or because of what someone in authority has said
+            - to be expected to do something
+            - Examples
+                - I was supposed to finish the report today, but I woke up with a terrible headache, so I couldn't do much.
+                - You are not supposed to check your messages while driving.
+- Be Used To 
+Be Accustomed To
+    - Customary actions
+    - These expressions are somewhat interchangeable as they have the same meaning. 
+    - They are used to express customary actions
+    - Examples
+        - Brazilians are used to having more than one shower a day.
+            - Brazilians are accustomed to having more than one shower a day.
+        - Simple Past
+            - Tony was used to working until late.
+            - Nick was accustomed to sleeping on couches.
+        - Future
+            - It isn't easy but you will get used to working weekends.
+            - Being a new parent is tough but you'll get accustomed to it
+- Be About To
+    - to be close to happening
+    - When used in the present form, it indicates a very near future.
+    - Something that is "about to happen" will happen very soon. 
+    - It is also used with other verb forms, such as the simple past (was about to).
+    - Examples
+        - Dialog
+            - Gillian - Yuki, hi! Can I come in?
+            - Yuki - Sorry, not now. We are about to go to bed. Can you come back tomorrow? 
+        - When used in the past, you refer to something that didn't get to be done: 
+            - I was about to leave when you called. (I was getting ready to leave when you called.)
+- Be Necessary To
+    - Necessity
+    - This expression and the semi-modal have to are interchangeable.
+    - It expresses necessity.            
+    - Examples
+        - Doctor - Mr. Atkinson has to rest. It is necessary to keep him away from stressful situations.
+        - When used in the past, this expression refers to something that didn't happen.
+            - It was necessary to let the cream settle, that's why your pudding didn't work out.
+- Used to vs Be Used To
+    - Used To
+        - Past habit 
+        - State or situation no longer true
+        - Describes a past habit: something you regularly did in the past but you don't do anymore. It can also refer to a state or situation that is no longer true.
+        - Affirmative 
+            - Subject + Used To + Verb + Complement
+            - Joan used to play at the beach when she was a kid. (Nowadays, as an adult, she doesn’t play anymore.)
+        - Negative 
+            - Subject + Didn't Use To + Verb + Complement
+            - Tara didn't use to enjoy going to the movies. (Nowadays, she enjoys going to the movies.) 
+        - Interrogative 
+            - Did + Subject + Use To + Verb + Complement
+            - Did you use to take theater lessons at school? (In the past, was it a habit of yours to take theater lessons at school?)
+    - Be Used To
+        - The verb to be can be inflected in any verb form or combined with modals according to the meaning the speaker wants to convey (Was/Were Used To, Am/Is/Are Used To, Can Be Used To…). It refers to an action or something that is familiar to you because of previous experience.
+        - Be Used To + Things in General 
+            - To be accustomed to something.
+            - Affirmative 
+                - Subject + Be Used To + Complement
+                - Pete is used to high temperatures.
+            - Negative
+                - Subject + Be (Negative) Used To + Complement
+                - Julia isn't used to diet food. 
+            - Interrogative \
+                - To Be + Subject + Used To + Complement
+                - Are you used to cold showers?
+        - Be Used To + Actions 
+            - To be accustomed to doing something.
+            - Affirmative 
+                - Subject + Be Used To + Verb (–ING form) + Complement
+                - Jack is used to waking up early (He is accostumed to waking up early probably because he does it every day.)
+            - Negative 
+                - Subject + To Be (Negative) Used To + Verb (–ING form) + Complement
+                - Cody isn’t used to doing exercises. (He doesn’t usually do it so he probably gets very tired.)
+            - Interrogative 
+                - To Be + Subject + Used To + Verb (–ING form) + Complement
+                - Are you used to traveling solo? (Are you accustomed to traveling on your own?)
+## CONNECTORS
+>Inter 1 pages: 165, 186, 195  
+>
+>Inter 2 pages: 210, 215, 225, 240  
+>
+- What?
+    - Prepositions
+    - Linking words and expressions
+    - Conjunctions
+- When
+    - When means at the moment.
+    - Simple Past + Simple Past
+    - Simple Past + Past Continuous
+    - Examples
+        - Sam left when we finished the meeting.
+        - When Julia arrived, the baby was sleeping.
+- While
+    - While means during the time.
+    - Past Continuous + Past Continuous
+    - Past Continuous + Simple Past
+    - Examples
+        - Mike was preparing breakfast while I was taking a shower.
+        - While I was taking care of the baby, Mike did the laundry
+- Types
+    - Conclusion
+        - So
+        - Because of that
+        - As a conclusion
+        - Summing up
+        - To make a long story short
+        - Therefore
+        - As a result
+        - To conclude
+        - As we have seen
+        - As we all know
+        - In short
+        - Examples
+            - my is a highly skilled professional at a very young age. **So**, I think the company should keep on investing in her.
+            - Amy is a highly skilled professional at a very young age. **As a conclusion**, I think the company should keep on investing in her.
+            - *As we have seen*, Amy is a highly skilled professional at a very young age. **Because of that**, I think the company should keep on investing in her.
+    - Addition
+        - And
+        - Besides that
+        - And also
+        - Moreover
+        - Furthermore
+        - Examples
+            - Amy is a skilled professional **and** she is also a great team player.
+            - Amy is a skilled professional. **Besides that**, she is a great team player.
+            - Amy is a skilled professional. **Moreover**, she is a great team player.
+            - Amy is a skilled professional. **Furthermore**, she is a great team player.
+    - Contrast
+        - But
+        - Although
+        - Even though
+        - However
+        - Despite
+        - On the other hand
+        - On the contrary
+        - Examples
+            - Amy is a young woman **but** she is already a highly skilled professional.
+            - **Although / Even though** Amy is still young, she is a highly skilled professional.
+            - Amy is a young woman. **However**, she is already a highly skilled professional.
+            - **Despite** being young, Amy is a highly skilled professional.
+    - Cause and Effect
+        - Used in the between two sentences or at the beginning of a sentence.
+            - Hence
+            - Thus
+            - Consequently
+            - Examples
+                - We need to save money to open our business. {Thus / Hence / Consequently} it is going to be impossible to travel on the holidays.
+                - We worked hard, {thus / hence / consequently} we succeeded.
+        - Used in between two sentences/clauses or at the beginning of a sentence. Usually has a negative connotation.
+            - As a consequence (of something)
+            - Examples
+                - Donald is definitely not telling me the truth. As a consequence, I cannot trust him.
+                - You didn't do your homework, and as a consequence of that, you are grounded.
+        - Used in between two sentences/clauses or at the beginning of a sentence
+            - That's why
+            - Because of that
+            - As a result
+            - Examples
+                - I'll have to work overtime this week, {that's why / because of that / as a result} I can't meet you tonight
+    - Exemplification
+        - They are used to introduce examples; they can be used interchangeably
+        - For instance
+        - For example
+        - As an example
+        - That is (to say)
+        - Such as
+        - Namely
+        - Examples
+            - Mammals are animals **that** produce milk to feed their babies, namely dogs, lions, and humans
+            - Free healthcare is successfully provided in many countries, **such as** Canada, Australia, and France
+            - Amy is a highly skilled professional. She has great ideas, **for instance**, she was the one who improved our customer service.
+            - Amy is a highly skilled professional. She has great ideas. **As an example**, she was the one who improved our customer service.
+            - Amy is a highly skilled professional. She has great ideas, **such as** improving our customer service.
+            - Amy is a highly skilled professional. She has great ideas, **namely** improving our customer service
+    - Listing
+        - They give us an idea of order when you provide a list of things, instructions, or examples.
+        - To begin
+        - start with
+        - First
+        - Second
+        - In first place
+        - In second place
+        - Next
+        - Then
+        - Last but not least
+        - Examples
+            - To solve a math problem, first you have to read the heading carefully. Then start doing the math according to what you read. Sum and subtract until you get to the final result. Last but not least, review your calculations.
+- Position of Connectors in Sentences
+    - And, and also, but, and so, won't appear in the beginning of sentences. They may come after a period but connecting two sentences.
+        - Savannah works all day and studies at night.
+        - Johnny is athletic but he hates team sports.
+        - Tommy is an accountant, so he is the best person to help you with a new company
+    - However and therefore will usually come between the sentences they link, after a period or not.
+        - Henry is very careful with his money. However, he likes to splash out sometimes.
+        - Peter won the lottery. Therefore, he is now a rich man.
+    - Although, even though, in spite of or despite will introduce the sentences but they can appear in the middle when clauses are inverted.
+        - Even though Julienne is on a diet, she agreed to have dinner with us.
+        - Julienne agreed to have dinner with us, even though she's on a diet.
+        - In spite of being on a diet, Julienne agreed to have dinner with us.
+        - Julienne agreed to have dinner with us, in spite of being on a diet
+## GIVING OPINION
+>Inter 1 pages: 160, 161, 166, 179, 185, 190, 191  
+>
+>Inter 2 pages: 206, 212  
+>
+- Opinion
+    - Positive
+    - Negative
+    - Neutral
+- Asking for Opinion
+    - What do you think about...?
+    - What is your opinion about...?
+    - What is your take on...?
+    - Do you think that...?
+- Introducing Opinion
+    - I think (that)...
+    - I guess (that)...
+    - I'd say (that)...
+    - I suppose (that)...
+    - From my point of view...
+    - In my opinion,...
+- Agreeing
+    - To have the same opinion as somebody else
+    - Examples:
+        - I agree with you.
+        - I agree that...
+        - I have the same opinion.
+        - I couldn't agree more.
+        - That's exactly what I think
+- Disagreeing
+    - To have a different or completely opposite opinion
+    - Examples
+        - I don't agree...
+        - I disagree...
+        - I have a different opinion...
+        - I beg to differ...
+        - I don't think so...
+- Fillers and Expresssions
+    - Used in spoken language only (or informal internet conversations)
+    - Carry no meaning
+    - Used to make a pause in speech
+    - May indicate the speaker is choosing which words to use
+    - Fillers are words without meaning that are used to make pauses and think about how to continue your speech. Here are some fillers: 
+        - You know...
+        - Let me tell you something...
+        - Hm... 
+        - ...like... (used in the middle of sentences)
+        - Yeah...
+        - Well...
+        - I see...
+        - You see...
+        - The point is...
+        - The thing is...
+    - Examples
+        - You know, I think people need to invest in organizations that protect the environment.
+        - I don't think that forbidding drugs is the solution to violence, you know?
+        - Some things about law are, you know, complicated for the ordinary citizen.
+        - I see...but don't you think that people must obey the law?
+        - Let me tell you something, the government has a responsibility to its people.
+        - Hmm...I don't really agree because people also have responsibilities.
+        - It's like...society works in cooperation, I believe.
+        - Yeah...I guess you're right.
+        - I know...You're always here to help.
+        - Well, I'd say that politicians should do good but it doesn't always happen.
+        - The point is, most politicians forget their principles eventually.
+        - The thing is that when there is a lot of money involved, I guess people go crazy.
+        - My opinion about the situation in Africa...how can I put this...it's historical and hard to solve.
+- Formal or Informal?
+    - Where are you?
+    - Whom are you talking to?
+    - Formality relies on:
+        - The social code of the place. (Is it formal? Is it informal Is it casual?)
+        - The difference between the participants in the interaction. (Do you know them? Are you close? Are you intimate? Are you higher or lower in hierarchy? Are you much younger?)
+        - Generally, the bigger the gap between participants in the interaction, the higher the level of formality. Older people tend to be more formal.
+- Subtle or Emphatic?
+    - Where are you?
+    - Whom are you talking to?
+    - Do you need to convince people?
+- Subtle
+    - You give opinion almost as a suggestion
+    - Phrases
+        - I kind of think that...
+        - It may be true that...
+        - It's just that...
+        - It could possibly...
+    - Examples
+        - I tend to believe that exercise alone isn't enough to lose weight.
+        - I guess that maybe living in the city is more exciting.
+        - I probably agree with the idea of taking two vacation terms in a year.
+        - I would say that living on your own is liberating.
+- Emphatic
+    - You give opinion in a less flexible way
+    - Phrases
+        - I must say that...
+        - I'm positive that...
+        - I am convinced that...
+    - Adverbs
+        - Completely
+        - Entirely
+        - Brutally
+        - Just
+        - Plain
+        - Seriously
+    - Examples:
+        - This is completely/entirely wrong.
+        - I'll be brutally honest with you: your text sucks
+        - This juice is just wonderful.
+        - I can't read this piece of news. It's plain stupid
+        - Seriously, I love it when you disagree with me
+        - I do believe that it is OK for a student to have a part-time job.
+        - I strongly believe that the government must be more just.
+        - I definitely believe that people have to take care of the environment.
+        - I really think that nature is important for human life.
+- Certainty
+    - When you are talking about something you are sure of, you can use some expressions to introduce your opinion.
+        - I am sure (that)...
+        - I am positive that...
+        - I am quite sure...
+        - I am pretty sure...
+        - I am certain that...
+        - I am almost sure that...
+        - There is no doubt about that...
+        - For sure (used in the end of sentences, not in the beginning)
+    - Adverbs
+        - Definitely
+        - Certainly
+        - Surely
+        - For sure
+    - Adjectives
+        - Sure
+        - Confident
+        - Positive
+    - Modal Verbs
+        - I must…
+        - I will…
+    - Examples
+        - I agree. We should definitely look for alternatives
+        - Yes, don't worry. I'm positive.
+        - I will have to work on Saturday
+- Doubt
+    - When you are not really sure of something but still want to speak your mind, here are some expressions you can use:
+        - I am not sure that...
+        - I don’t know exactly...
+        - I could/might be wrong but...
+        - Well, I might + Verb...
+        - Well, I could + Verb… 
+        - Maybe… 
+    - Adverbs
+        - Probably
+        - Maybe
+        - Perhaps
+    - Adjectives
+        - Unsure
+        - Doubtful
+        - Uncertain
+    - Modal Verbs
+        - I might…
+        - I may…
+    - Examples
+        - Perhaps we should look for some alternatives.
+        - I might be wrong
+        - Then I guess we may have to change our plans for the weekend.
+- Comparative Form
+    - When we want to give our opinion comparing one element to another, we will use the comparative form. 
+    - Possible Structures
+        - There is nothing worse/better than…
+        - I think it is much better to...
+        - I guess it's much worse to...
+        - Dialogs Examples
+            - Julia - There's nothing better than New York in the summer.
+            - Katie - Really? I think it's much better in the spring. Summers in New York can be really hot!
+- Superlative Form
+    - When we want to give our opinion comparing one element to all the others of the same kind, we will use the 
+    - Possible Structures
+        - I think that the best/worst idea is to...
+        - The best/worst thing to do is...
+        - The most (adjective) idea/opinion is...    
+        - Dialogs Examples
+            - Julia - I think that the best thing to do when you decide to take a trip overseas is to plan ahead.
+            - Katie - I agree. That's the most important thing to do if you don't want to have problems.
+- Checking Understanding 
+    - You use expressions to check understanding to make sure the listener is paying attention to you and understands what you’re saying. 
+        - Do you get what I'm saying?
+        - Do you know what I mean? 
+        - Did I make myself clear? 
+        - You know? 
+        - Right?
+        - Yeah?
+    - Examples
+        - You know I like horror movies, right? 
+- Asking for Clarification
+    - You use expressions to ask for clarification when you are listening to someone's opinion and you don't understand.
+        - What do you mean?
+        - I don't get it...
+        - I beg your pardon?
+        - Come again... 
+        - How come?
+    - Examples
+        - Dialog
+            - Mark – I think this dress doesn't suit you. 
+            - Leah – What do you mean?
+## MODAL VERBS
+>Inter 1 pages: 163, 174, 180, 182, 185, 193, 197  
+>
+>Inter 2 pages: 207, 229, 245  
+>
+- Modify verbs according to the speaker's perspective
+- Are followed by a bare infinitive verb (without to)
+- verbs used to express mood (such as ability, obligation, necessity, or possibility) according to speakers' judgment. They do not infer an idea of time nor a factual aspect to verbs.
+- Can
+    - Present Ability
+        - Mario can swim very well. (Mario is able to swim very well.)
+    - Informal Permission and Request
+        - Dialog
+            - Katy – Dad, can I borrow your car? (Do you let me borrow your car?)
+            - Paul – Yes, you can. (Yes, I permit.) 
+        - Note: When using Can to make requests, you expect the answer to be "yes."
+    - Possibility
+        - Let’s grab something to eat? We can have a sandwich or a proper meal. (It’s possible for us to have...) 
+    - Structure
+        - Affirmative
+            - Subject + Can + Verb (Bare Infinitive)
+        - Negative
+            - Subject + Cannot / Can’t + Verb (Bare Infinitive)
+        - Interrogative
+            - Can + Subject + Verb (Bare Infinitive)
+- Could
+    - Past Ability
+        - I miss my teens. I could sleep until late then, but now I have to work early. (I was able to sleep until late...)
+    - Polite Permission and Request
+        - Mr. Sparrow, could I arrive a little later tomorrow? (Would it be possible for me to arrive a little later...?)
+    - Remote Possibility
+        - I'll negotiate with Mr. Dickinson, maybe he could extend the deadline. (There's a slight chance he will...)    
+    - Structure
+        - Affirmative
+            - Subject + Could + Verb (Bare Infinitive)
+        - Negative
+            - Subject + Could not / Couldn’t + Verb (Bare Infinitive)
+        - Interrogative
+            - Could + Subject + Verb (Bare Infinitive)
+- Will
+    - The modal verb Will is commonly used to refer to future events.
+    - Decision made at the moment of speaking
+    - Prediction based on opinion
+    - It expresses the idea of inevitability.
+    - Affirmative:  Subject + Will / 'll + Verb in Bare Infinitive + Complement
+        - Julia will organize the party
+        - I will do it - formal or emphatic
+        - I'll do it - spoken or informal
+    - Negative: Subject + Will Not / Won't + Verb in Bare Infinitive + Complement
+        - Mark will not travel this year
+        - I will not go there - formal or emphatic
+        - I won't go there - spoken or informal
+    - Interrogative: Will + Subject + Verb in Bare Infinitive + Complement
+        - Will Joe eat at home?
+- Must
+    - Must is a modal verb, which is used to modify the meaning of verbs. 
+    - Obligation (internal) - The speaker perceives the action as mandatory.
+    - Affirmative
+        - Subject + Must + Verb (to)
+    - Negative
+        - Mustn't (the negative form of Must) **expresses prohibition**.
+        - Subject + Must Not (Mustn’t) + Verb (to) (different meaning)
+    - Interrogative 
+        - Must + Subject + Verb (to)
+    - Examples
+        - We must teach our children to respect everybody.
+        - Gillian must check her work emails every day. (= It is mandatory that Gillian do that.)
+        - Mike mustn't hire an assistant without the CEO's permission. (= Mike is prohibited/forbidden to hire without permission.)
+- Have to
+    - Obligation (external) -> The speaker perceives the action as mandatory because it is an order, a command, or a law to be followed.
+    - is a semi-modal - Semi-modals modify the meaning of verbs but take a different sentence structure from modal verbs.
+    - Affirmative Form
+        - Have To = Must
+    - Negative Form 
+        - Have To != Must
+        - do not (don't) have to or does not (doesn't) have to — the meaning is "it is not necessary."
+    - Examples
+        - The director gave the order, so I **have to** check the archives first
+- Should
+    - Advice
+    - Recommendation
+    - Affirmative
+        - Subject + Should + Verb (to)
+    - Negative
+        - Subject + Should Not (Shouldn't) (to) + Verb
+    - Interrogative
+        - Should + Subject + Verb (to)
+    - Examples
+        - Steve should prepare the report in advance to avoid being late. (= It is advised/recommended that Steve do that.)
+- May
+    - Possibility
+    - Strong Possibility
+    - Formal Request
+    - Permission
+    - affirmative form, it means possibility.
+        - I heard Jack and I may work together but we don't really get along. (It is very likely they will work together.)
+    - negative form, it is unlikely that something will happen
+        - There's a lot of traffic, we may not get there on time. (It is very likely they won't arrive on time.)
+    - interrogative form, it is used to request permission. It can be used in contexts in which the speaker highly respects the people he or she is talking to.
+        - May I have a word with you? (Do I have your permission to have a word with you?)
+    - commonly used in indirect questions to indicate possibility
+        - Do you think I may have a chance in this audition? (Do you think it is possible that I have a chance?)
+    - Examples
+        - Strong Possibility 
+            - Ian may travel with his family next month. (It's very likely he will do it.)
+            - I can ask my boss, but I may not be able to leave early tomorrow. (It is very likely that I won't leave early.)
+        - Permission
+            - May I have a word with you? (Do you allow me to have a word with you?)
+            - You may enter. (You have my permission to enter.)
+- Might
+    - Remote Possibility
+    - affirmative form, it means remote possibility.
+        - We might need more people in the department. (There is a slight chance we need more people.)
+    - negative form, it is very unlikely that something will happen.
+        - The sales department might not be able to do well this month. (There is a chance they won't do well.)
+    - Might is more common in indirect questions. It also means a remote possibility.
+        - Do you think John might find out about our secret? (Is there any chance John will find out?)
+    - Examples
+        - Anthony is busy today, but he might show up at the party. (There is a slight chance Anthony will show up.)
+        - Elaine's baby might not be a girl. (There is a slight chance the baby will be a boy.)
+        - Might isn’t normally used in direct questions, but you can make indirect questions with it. 
+            - Do you think you might have a chance at the race?
+- Would
+    - for hypothetical situations
+        - Hypothetical situation: If she had enough money, she would travel with her friends
+        - Real situation: She doesn't have enough money, so she will not travel with the girls.
+    - Affirmative: Subject + Would + Main Verb + Complement
+        - If she had enough money, she would travel with the girls.
+    - Negative: Subject + Would + Not + Main Verb + Complement
+        - If I were you, I wouldn't talk to John about this problem now
+    - Interrogative: Would + Subject + Main Verb + Complement?
+        - Would you leave your current job and come work with us?
+    - Would you like...?
+        - Used for offers and invitations.
+        - Offers or Invitations / Accepting or Declining
+            - Would you like to go out for lunch tomorrow? Yes, I'd love to. / Unfortunately, I can't.
+            - Would you like some water? Yes, please. / No, thank you. I'm OK
+## COMPARATIVE FORMS
+>Inter 2 pages: 205, 209, 232 
+>
+>Inter 3 pages: 256
+>
+- Compare specific characteristics of two elements 
+- Superiority
+    - Long Adjectives
+        - More + Adjective + Than
+        - I bought a couch that is more comfortable than the old one
+    - Short Adjectives
+        - Adjective (-ER or -IER) + Than
+        - Adjectives ending in consonant + -Y 
+            - Drop the Y 
+            - add -IER 
+            - Happy - Happier
+        - Other short adjectives
+            - Add -ER 
+            - Tall - Taller 
+            - Fat - Fatter
+            - Pay attention to the CVC rule: double the last consonant.
+        - Lenny is taller than Adam.
+    - Irregular Forms
+        - Good → Better
+        - Bad → Worse
+        - Far → Further (metaphorical distance) / Farther (physical distance)
+        - Little → Less
+- Equality
+    - As + Adjective + As
+    - Examples
+        - Kimberly is as responsible as Stacy
+        - Laura is as fun as Jessica
+- Inferiority
+    - Less + Adjective + Than
+    - Examples
+        - Tony is less talkative when his mother is around.
+    - Although the comparative of inferiority form exists, the comparatives of superiority or equality (in the negative form) are more frequently used.
+        - less freqyently: Mike is less friendly than Lawrence.
+        - More frequenly: Lawrence is friendlier than Mike
+        - More frequenly: Mike is not as friendly as Lawrence.
+- Non-gradable Adjectives
+    - Non-gradable adjectives are adjectives that cannot be measured because they are extreme. For example: something that is wonderful has the quality of being incomparable in regards of how good it is because it is “too good.”
+    - Examples
+        - Wonderful
+        - Marvelous
+        - Terrific
+        - Excellent
+        - Amazing
+        - Awesome
+        - Fantastic
+        - Incredible
+        - Absolut
+        - Horrible
+        - Terrible
+        - Awful
+        - Delicious
+        - Infinite
+        - Ridiculous
+        - Freezing
+        - Dead
+        - Impossible    
+## SUPERLATIVE FORMS
+>Inter 2 pages: 220, 232  
+>
+- The superlative forms refer to extremes. It is one unique thing with an incomparable feature.
+- Superiority
+    - Long Adjectives
+    - The Most + Adjective
+    - Examples
+        - Firing someone is the most uncomfortable thing one can do
+- Short Adjectives
+    - The + Adjective (-EST or -IEST)
+    - Original adjective ending in Consonant + -Y 
+        - Drop the -Y 
+        - add -IEST 
+        - Pretty - The prettiest
+    - Other short adjectives 
+        - Add -EST 
+        - Smart - The smartest
+    - CVC. rule
+        - The superlative form also follows the C.V.C. rule.
+        - Words ending in Consonant + Vowel + Consonant 
+            - Double the last consonant + -EST
+            - Hot → The hottest
+            - Big → The biggest
+            - Sad → The saddest
+    - Examples
+        - Tommy is the funniest friend I have
+        - Stella is the shortest player on the soccer team.
+- Irregular Forms
+    - Some words have irregular superlative
+    - Good → The best
+    - Bad → The worst
+    - Far → The furthest (metaphorical distance) / The farthest (physical distance)
+    - Little → Least
+- Inferiority
+    - with any adjective, you need to follow this structure
+    - isn't commonly used for physical characteristics.
+    - The Least + Adjective
+    - Examples
+        - Leave the least important problem for tomorrow.
+        - Michael is the least interested student in class.
+## PRONOUNS
+>Inter 1 pages: 176  
+>
+>Inter 2 pages: 219  
+>
+- Subject Pronouns
+    - Function as subjects
+    - Come before verbs
+    - Singular
+        - First person
+            - I
+        - Second person
+            - You
+        - Third person
+            - He
+            - She
+            - It
+    - Plural
+        - First person
+            - We
+        - Second person
+            - You
+        - Third person
+            - They
+- Object Pronouns
+    - Function as objects
+    - Come after verbs and/or prepositions
+    - Singular
+        - First person
+            - Me
+        - Second person
+            - You
+        - Third person
+            - Him
+            - Her
+            - It
+    - Plural
+        - First person
+            - Us
+        - Second person
+            - You
+        - Third person
+            - Them
+- Reflexive Pronouns
+    - Function as the object when both the subject and the object are the same person
+    - Singular
+        - First person
+            - Myself
+        - Second person
+            - Yourself
+        - Third person
+            - Himself
+            - Herself
+            - Itself
+    - Plural
+        - First person
+            - Ourselves
+        - Second person
+            - Yourselves
+        - Third person
+            - Themselves
+- Pronoun Ambiguity
+    - Mia is looking for Sarah because she doesn't feel well
+        - Who doesn't feel well: Mia or Sarah?
+        - You can solve this ambiguity by reorganizing this sentence.
+        - Sarah doesn't feel well, so Mia is looking for her
+    - Adam is worried because Professor Storm said he's in trouble
+        - Who is in trouble: Adam or Professor Storm?
+        - You solve this ambiguity by adding some words and replacing others.
+        - Adam is worried about Professor Storm because the professor claims to be in trouble.
+        - Adam is worried because the Professor said that Adam is in trouble.
+## NARRATIVE TIMELINE
+>Inter 1 pages: 164, 170, 183, 185  
+>
+>Inter 2 pages: 204, 214, 217  
+>
+- Story -> Narrative -> Moves from the past to the present and into the future
+- In order to make a narrative, it is necessary to use verb forms and time expressions that show the chronological sequence of the actions.
+- Past
+    - Simple Past
+        - Single complete action at a defined point in the past.
+        - Affirmative: Regular verbs (-D, -ED, -IED) and irregular verbs
+        - Negative and Interrogative: Auxiliary verb did
+    - Past Continuous
+        - Action that was temporary and/or in progress during a period in the past
+        - Affirmative: To Be (in the Past) + Verb in -ING
+        - Negative and Interrogative: The same structure of the verb to be in the past
+    - Connectors
+        - Yesterday
+        - Two days ago
+        - Last {week / month / year}
+        - Last {summer / winter}
+    - Expressions
+        - In the summer / the winter / 1970
+        - Last week/month/year
+        - Yesterday
+        - Two days/months/years ago
+        - At that moment
+        - Some time ago
+    Examples
+        - Yesterday, I went to the movies with Paul.
+        - Mary and I went to the movies yesterday    
+- Present
+    - Simple Present
+        - Actions that represent facts or routine.
+        - Affirmative: Simple form for I, You, We, They and third person inflection (-S, -ES or -IES)
+        - Negative and Interrogative: Auxiliaries Do (I, You, We, They) and Does (He, She, It)
+    - Present Continuous
+        - Action in progress during a period in the present and into the future.
+        - Affirmative: To Be (In the Present) + Verb in -ING
+        - Negative and Interrogative: The same structure of the verb to be in the present
+    - Connectors
+        - Today
+        - On {Mondays / Tuesdays}
+        - In {spring / autumn}
+        - Always
+        - Every day
+        - Sometimes
+    - Expressions
+        - (Right) now
+        - At the / this moment
+        - Currently
+        - Nowadays
+        - Today
+    - Examples
+        - I'm working right now. Can we talk later?    
+- Future
+    - Will
+        - Prediction Based on Opinion
+        - Inevitability
+        - Modify verbs giving an idea of future prediction based on the speaker's perspective.
+        - Affirmative: Will + Verb (Bare Infinitive: Without To)
+        - Negative: Will not/Won't + Verb (Bare Infinitive: Without To)
+        - Interrogative: Will + Subject + Verb (Bare Infinitive: Without To)
+        - Examples
+            - Oh, that bread smells good. I'll get some to take home. (The decision to buy was made at the moment Billy smelled the bread as he passed by the bakery.)
+            - I can't. I'll probably travel this Saturday
+    - Be Going to
+        - Future Plans
+        - Plans
+        - Predictions Based on Evidence
+        - Indicates a future plan or a prediction based on physical evidence.
+        - Affirmative: Subject + To Be + Going To + Complement
+            - Lisa is going to get married next month.
+        - Negative: Subject + To Be + Not + Going To + Complement
+            - Unfortunately, I'm not going to be here on the wedding day.
+        - Interrogative: To Be + Subject + Going To + Complement
+            - Are you going to get her a wedding gift?
+        - Examples
+            - Definitely! We have the money, we just needed the time. We're going to spend a few days in Thailand. (Tanya is planning to go to Thailand.)
+            - I'm going to travel this Saturday.    - Connectors
+        - Tomorrow
+        - Next {week / month / year}
+        - In a few days
+        - Shortly
+        - Soon
+        - In the future
+    - Expressions
+        - Tomorrow
+            - Susan's party is tomorrow.
+            - Susan's party is tomorrow morning.
+            - Susan's party is tomorrow afternoon.
+            - Susan's party is tomorrow evening.
+        - In + year
+            - In 2019
+            - In 2030
+        - (Number) days/months/years from now
+            - Two days from now
+            - Three years from now
+        - Next
+            - next week
+            - next month
+            - next year
+            - Monday
+            - Tuesday
+            - weekend
+        - Later 
+        - By the end of the 
+            - day
+            - week
+            - month
+    - Connectors
+        - For unexpected actions
+            - Suddenly
+            - Out of the blue
+            - Unexpectedly
+            - Examples
+                - I was watching TV, completely distracted, and Jack suddenly opened the door.
+                - Cindy dreams of waking up one day, check the lottery ticket and get rich out of the blue.
+        - For actions that happen at the same time
+            - Meanwhile
+            - At the same time
+            - Examples
+                - Mia will cook dinner. Meanwhile, John prepares some drinks and sets the table
+        - For final actions or results
+            - At the end
+                - Static. Indicates the end of something.
+                - Examples
+                    - at the end of the week, at the end of the story
+            - In the end
+                - It means “Finally”
+                - Examples
+                    - Mike was stuck in traffic, in the end, he was about five hours late
+- Narration Sequecing
+    - We also use expressions to help us sequence our narration
+    - (Right) After that 
+    - Before that
+    - Then 
+    - When 
+    - While
+    - Examples
+        - When I arrive at home later today, I'll help you with the homework. After that, we can go to the mall.
+            - When = at the time
+        - While they were having dinner, it started to snow.
+            - While = During the time
+## EXPRESSING QUANTITY
+>Inter 1 pages: 172  
+>
+- Countable Nouns
+    - Question: How many?
+    - Quantifiers:
+        - A lot of → Very large quantity
+        - Many → Large quantity
+        - A few → Small but sufficient quantity
+        - Few → Small and not sufficient quantity
+- Uncountable Nouns
+    - Question: How much?
+    - Quantifiers:
+        - A lot of → Very large quantity
+        - Much → Large quantity (commonly used in the negative)
+        - A little → Small but sufficient quantity
+        - Little → Small and not sufficient quantity
+- Other Ways
+    - Lots of / A bunch of
+        - Similar to "a lot of" but more informal
+        - Examples
+            - There's a bunch of people in the concert. 
+    - Several
+        - Similar to "many"
+        - There are several career options one can choose from. 
+    - Plenty of
+        - A quantity that is rather large and sufficient.
+        - Tony has plenty of work to do, he doesn't need any more courses. 
+    - Some 
+        - A part of a group
+        - Commonly used in negative or interrogative sentences
+    - Any
+        - Complete absence 
+        - Commonly used in negative for this idea
+    - Examples
+        - Group for Example above
+            - Physician
+            - Biologist
+            - IT analyst
+            - Journalist 
+            - Human Resources Specialist 
+            - Singer
+            - Surgeon 
+            - Fashion Designer
+            - Driver
+            - Chef 
+            - Accountant
+        - There are some professions in the group. (Not all, but part of the professions there are.)
+        - There aren't any companies in the group. (There is not one company, at all.)
+## RELATIVE PRONOUNS
+>Inter 1 pages 194  
+>
+>Inter 2 pages 236  
+>
+- Modify nouns or some pronouns → Used to identify people and things or to give extra information about them.
+- They refer to people, things, or ideas previously mentioned. They are either part of non-restrictive clause or of a restrictive clause.
+- Use
+    - Who
+        - Who replaces a repeated reference of people, introducing a relative clause.
+        - It may give extra information or essential information about the subject. 
+        - Who is the subject of the relative clause. 
+        - Examples
+            - The postman, **who came this morning**, delivered an important message.
+                - Extra information → Not necessary to understand who the postman is.
+                - When used to add information, the relative clause introduced by Who comes in between commas (,).
+            - Johnny is the postman **who came this morning**. 
+                - Essential information to identify the postman.
+    - Which
+    - That 
+        - That replaces who in more informal contexts.
+        - That may be used to identify people.
+        - Relative clauses introduced by that don’t come in between commas (,).
+        - Examples
+            - Juliet usually makes friends with people **that are trustworthy and show her a good time.**
+                - Essential information to identify the subject. 
+            - Juliet is a woman that **values her right to be independent.** 
+                - Essential information to identify Juliet.
+- Structure
+    - Non-restrictive Clauses
+        - They add extra information about the people, things, or ideas they refer to. They are set off by commas. If you take them out of the sentence, you can still make sense of what is said.
+        - Who - used to refer to people
+            - My only daughter, who lives in Denver, is coming for Christmas.
+                - who = my only daughter 
+                - who lives in Denver = Non-restrictive Clauses
+        - Which - used to refer to things or ideas
+            - My suggestion, which nobody liked, was to postpone the trip. 
+                - which = my suggestion
+                - which nobody liked = Non-restrictive Clauses
+    - Restrictive Clauses
+        - They add essential information about the people, things, or ideas they refer to. They are not set off by commas. If you take them out, you are not likely to understand what is said
+        - Who / That - used to refer to people
+            - Sarah's brother is sick.
+                - Is this information complete? No.
+                - Why? Because Sarah has two brothers.
+                - You need to specify which brother you are talking about. You can use a restrictive clause.
+            - Sarah's brother (who / that) is only five years old is sick.
+                - (who / that) = Sarah's brother
+                - (who / that) is only five years old = Restrictive Clauses
+        - Which / That -  used to refer to things or ideas
+            - The smartphone needs to be fixed.
+                - Is this complete information? No.
+                - Why? Because there are three smartphones.
+                - You need to specify which smartphone needs to be fixed            
+            - The smartphone (which / that) needs to be fixed is the black one.
+                - (which / that) = The smartphone
+                - (which / that) needs to be fixed = Restrictive Clauses
+## TAG QUESTIONS
+>Inter 2 pages 239  
+>
+- Use
+    - Used at the end of a sentence to confirm the statement previously made.
+    - Used with all verb forms.
+- Examples
+    - Your son doesn't eat chicken, does he?
+        - Main sentence in the negative form (Your son doesn't eat chicken)
+        - Tag Question in the affirmative form using the same verb form as in the main sentence (does he?)
+    - But he likes fish, doesn't he?
+        - Main sentence in the affirmative form (But he likes fish)
+        - Tag Question in the negative form using the same verb form as in the main sentence (doesn't he?)
+    - Simple Past
+        - You visited London, didn't you?
+        - You didn't visit London, did you?
+    - Past Continuous
+        - The children were studying, weren't they?
+        - The children weren't studying, were they?
+    - Modal Verbs
+        - You can speak English, can't you?
+        - But you can't speak German, can you?
+    - Imperative Form
+        - You can use tag questions to soften up favors and requests with the imperative form. In this case, you should use the modal verb will.
+        - Do me a favor, will you?
+        - Help your sister, will you?
+- The only exceptions are
+    - Sentences with "Let's" - use "shall we"
+        - Let's (let us) go, shall we?
+    - Sentences with "I'm" - use, "aren't I"
+        - I am pretty smart, aren't I?
+## EXPRESSIONS WITH GET AND FEEL
+>Inter 2 pages 233  
+>
+- There are different ways to express emotions in English. Let's focus on the verbs to get and to feel. 
+    - To Get = To Become
+        - The verb to get has different meanings according to its complements and contexts. When combined with adjectives, its meaning is to become, as a consequence of something.
+    - To Feel = Action of Feeling
+    - Expressing State: To Get + Adjective 
+        - I get stressed when I have to repeat myself too many times.
+        - I get tired after I work out. 
+        - I get surprised when I receive presents in ordinary days.
+        - I get inspired when I see stories of successful people.
+        - I get annoyed when people wake me up early.
+        - I get frustrated when I don't get a promotion.
+        - I get interested when my friends talk about different things.
+        - I get upset when I have an argument with my spouse.
+        - I get moved by real romantic stories.        
+    - Expressing Feelings: To Feel + Adjective
+        - To feel bad
+        - To feel great
+        - To feel awful
+        - To feel unconfortable
+        - To feel fine
+## EXPRESSING PREFERENCES
+>Inter 2 pages 244  
+>
+- Verb To Prefer
+    - Things
+        - Subject + Verb To Prefer + Thing 1 + To + Thing 2 
+        - Nick **prefers** soccer to volleyball. 
+    - Actions 
+        - Subject + Verb To Prefer + Verb in Infinitive + Rather Than + Verb in Infinitive or –ING + Complement
+        - Julia **prefers** to watch a movie rather than to eat/eating out. 
+- Would Rather
+    - The short form "I'd rather" is commonly used in spoken and informal written language. 
+    - The word "not" doesn't get a short form with would rather. 
+    - Interrogative
+        - Would you rather watch a movie at home or at the theater?
+    - Affirmative 
+        - I would rather go to the theater.
+    - Negative 
+        - I would rather not stay home.
+## REASONING: WHY
+>Inter 1 pages 199  
+>
+- Reasons, arguments, and evidence that support argumentation
+- Answer the question "Why?" or other questions that seek justification.
+- Question
+    - Do you think that it's a good idea to go on a road trip this summer? 
+    - Don't you think (that) summer is the best season?
+    - Why do you think (that) it's better to travel at night?
+-  Introducing Sentences - Reasoning
+    - Why don’t you like to travel in the holiday season?
+        - **Because** the roads are too busy.
+    - Do you think it is a good idea to drive late at night?
+        - **I'd say that** it is better in the morning, but we'll waste time if we don't leave on Friday night.
+    - Why do you buy so much food?
+        - **The reason** is that I hate going to the supermarket during the week.
+    - OK, but why me? 
+        - **The point** is that if I go shopping for food, we'll only eat cookies and chocolate.
+## GIVING GOOD AND BAD NEWS
+>Inter 3 pages 249
+>
+- Giving Good News
+    - When you have news that will make people happy, there are some expressions you can use
+        - The good news is...
+        - The good thing is...
+        - Here is some great news...
+        - I'm glad to tell you...
+        - I'm really thrilled that...  
+        - I am happy to say that...
+- Giving Bad News 
+    - When you have news that will make people sad, angry, or frustrated, you use other expressions that will prepare the listener for the bad news
+        - The bad news is...
+        - Unfortunately...
+        - How can I put this...
+        - I regret to say that...
+        - I'm sorry to say that...
+        - I am afraid that...
+## BASIC REPORTING STRATEGIES
+>Inter 3 pages 248
+>
+- Retelling something that someone told you or that you overheard
+- When retelling a story, we usually use the verbs 
+    - Say something 
+    - Tell a story 
+    - Ask a question or favor
+    - **Mary told me** she is getting married next year.
+    - **She said that** it will be a great party. 
+    - **I asked her** if she needed my help. 
+    - **She asked me** to be her bridesmaid. 
+    - **I said that** it would be an honor. 
+    - Then, **I asked her** what she needed me to do. 
+## ARGUMENTATIVE AND ADVICE-GIVING STRATEGIES
+>Inter 3 pages 253, 263
+>
+- Argumentation 
+    - Based on research, analysis, and critical view on the topic.
+    - Not only exposes the topic but also the writer’s point of view. 
+    - The writer or speaker defends the point of view using data as support.
+    - Usually written in the third person. 
+- Structure of an Argumentative Essay
+    - Introduction → Presents the main idea and conflict in one paragraph.
+    - Development → Three paragraphs with exposition of ideas and solutions of conflicts.
+    - Conclusion → Wraps up the text. No new ideas can appear in this part of the text.
+- Argumentation Essay in Spoken Language
+    - The conversation must also be complete: beginning, middle, and end.
+    - The conversation only ends once the argument is based on evidence.
+    - If the strategies and steps aren’t followed, probably there will be questions to gather extra information and then the audience will reach a conclusion
+- Argumentative Strategies
+    - There are some resources and techniques one can follow to expose data and support opinion convincingly.
+    - Analyzing Pros and Cons
+        - Taking into consideration positive and negative aspects helps make a reasonable analysis in your speech or text. They will also help you reach a conclusion, so you can structure your text like this: 
+        - Paragraph 1 – Introduction 
+        - Paragraph 2 – Positive aspects 
+        - Paragraph 3 – Negative aspects 
+        - Paragraph 4 – Evaluation of both positive and negative aspects
+        - Paragraph 5 – Conclusion
+    - Rhetorical Strategies
+        - 1. Appeal to logic or reason, usually through inductive or deductive reasoning. 
+            - The writer or speaker must be careful not to use fallacies, which are oversimplification of logic. 
+                - Jack is a boy. Jack is violent. All boys are violent. (This is a fallacy.)
+        - 2. Deal with the character, credibility, and reliability of the writer. Actions like choosing reliable sources, respecting the reader/listener, organizing ideas in the text and proofreading.
+        - 3. Deal with the readers’ emotions. It shows the writer or speaker is connected with the reader by making their text more personal and in ways that the recipient can relate. 
+    - Quotations
+        - There are different techniques to use quotations in writing. Direct quotations are extracts of an author's work or opinion, copied between quotes (""), followed by credits to the original author. 
+        - In academic writing, there are set rules of direct quotations whose reference (author and source of research) will appear in the footnote. 
+        - Indirect quotations don’t usually come between quotes but are usually introduced by phrases that indicate you’re about to quote someone:
+            - According to (name of the author)... 
+            - As (name of the author) states...
+            - As stated by (name of the author)...
+            - (Name of the author) states that...
+        - **Important Note**: The use of an author's words, even if paraphrased, without due credit is what constitutes plagiarism (appropriation of one's work and ideas taking them as one's own). It is considered an ethical foul and undermines the credibility of an author for good. 
+    - Paraphrase
+        - Paraphrases can be explained by the chunk of language "in other words." When you paraphrase an extract or an idea, you say the same thing with different words. The original author must be credited as well. 
+            - René Descartes said: I think, therefore I am. 
+            - Paraphrase – For René Descartes, rationality defines men. 
+    - Summary
+        - Summaries are a short version of an original text that concentrates on its main idea, leaving out details, and written with your own words. Again, the original author must be credited. 
+        - Romeo and Juliet, tragedy written by William Shakespeare, narrates a tragic love story of a couple from diverging families in ancient Verona 
+    - Narrations
+        - Narrations can be used as means to exemplify the author’s point related to data collected during research. These narrations, if based on the author’s experience, don’t need to be credited. 
+        - René Descartes believed that rationality defines men and that seems to be true since intellectuals are the ones who define the principles that guide our society as we learn at school.
+    - Remember that no argumentation is made without support, so, you can justify your conclusions using connectors and indicating references.
+        - Human beings must be careful when killing animals because they balance the environment, according to...
+- Advice-giving Strategies
+    - Using Commands (Imperative)
+        - The use of Imperatives to give advice is a common resource. It is important to mind your tone of voice when using it. 
+        - Examples
+            - Save a percentage of your salary every month if you want to buy a house. 
+    - Suggestions
+        - Examples
+            - **Don't you think** it's a good idea to have a bank account? 
+            - **Why don't you** start planning your finances for the future?
+            - **How about** saving up for your children's education now? 
+            - You **could** seek a personal finance consultant. 
+    - Hypothesis 
+        - Examples
+            - **If I were you, I would ask** for an accountant's help to start a business. 
+            - **If I were in your shoes, I would wait** a while before investing all my money. 
+    - Modal, Semi-modals, and Modal Expressions
+        - Modals 
+            - Should 
+                - Advice
+            - Must 
+                - Strong Advice
+            - Mustn't 
+                - Prohibition
+        - Semi-modals
+            - Ought to 
+                - Advice
+            - Have to 
+                - Necessity
+        - Modal Expressions
+            - It is advisable to...
+            - It is recommended to...
+            - I highly recommend you...
+        - Examples
+            - You **must** decide what you want to do with your money. 
+            - You **should** save a little every month. 
+            - You **ought to** plan your finances wisely.
+            - You **mustn't** spend too much on unnecessary things.
+## EXPRESSING SEQUENCE
+> Inter 3 pages 265
+>
+- Expressions Used to Express Sequence
+- Explaining Procedures = Giving Instructions 
+    - Sequence of Steps to Follow
+- Examples:
+    - How to Make Pasta
+        - **First**, pour one liter of still water in a pan. 
+        - **Second**, add a pinch of salt and turn the stove on. 
+        - **Third**, get the pasta you want to use and set aside the portion you need.
+        - **Then**, when the water boils, put the pasta into the boiling water.
+        - **Right after that**, stir the pasta into the water to prevent it from sticking.
+        - **After that/Afterwards**, check the pasta every few minutes until it is al dente. 
+        - **Finish by** draining the pasta with a colander. Leave it aside while you prepare the sauce. 
+        - To make the sauce, **start by** stir-frying some chopped onions and garlic in olive oil
+        - **Then**, add some chopped tomatoes.
+        - **After** they’re soft, add some water and bring it to a boil.
+        - **Finish by** seasoning it to taste and serve it hot on top of your pasta. 
+## EXPLAINING PROCEDURES: REMINDERS
+> Inter 3 pages 271
+>
+- Explaining Procedures
+    - Giving Instructions 
+    - Sequence of Steps to Follow 
+    - Call Attention to Important Steps 
+    - Reminders
+- For example
+    - You are going to host a dinner party but there are some important things to take into consideration if you want it to be a success
+    - **Don't forget to** adjust the salt before serving.
+    - **Remember to** ask your guests if they eat meat.
+    - **Bear in mind that** not everybody likes spicy food. 
+    - **Keep in mind that** when you host a dinner party, you must think carefully about the menu. 
+    - **It's important to** serve even portions so everybody has the same quantity of food.
+    - **Make sure you** protect your hand when taking the baking tray out of the oven.
+## PAIRED CONJUNCTIONS: EITHER…OR AND NEITHER…NOR
+> Inter 3 pages 272
+> 
+- Paired Conjunctions 
+    - Used to give options: - Either…or… 
+    - Used to deny both options: Neither…nor… 
+- Frequently used before equivalent elements in a sentence.
+    - Either…or…
+        - We can go either to park or to the movies. What do you prefer? (Used before the adverbial phrases)
+        - We'll use the money either to go on a family trip or to buy a new car. Choose one. (Used before the verbs)
+    - Neither…nor...
+        - We'll go neither to the park nor to the movies. You didn't do your homework. (Used before the adverbial phrases)
+        - We'll use the money neither to go on a family trip nor to buy a new car. We'll save it for the kids' college. (Used before the verbs)
+- When used before two subjects, the verb agrees with the last subject.
+    - Either Roxy or Melina is picking you up at the airport.
+    - Neither your sister nor your brothers are going to the party.
+## WOULD YOU MIND…?
+> Inter 3 pages 276
+>   
+- Would you mind 
+    - Used to ask for favors or permissions in which people believe the answer 
+    - might be negative, either because you are not close to the other person or because it is a delicate matter. 
+- Structure
+    - Questions
+        - Permissions
+            - Would you mind + if + I + Verb in the Past + Complement
+            - Would you mind if I borrowed your car?
+        - Favors
+            - Would you mind + Verb in –ING form + Complement
+            - Would you mind taking a picture of us?
+    - Answers
+        - The structure "Would you mind…?" can be understood as "Would it be a problem…?" So, pay close attention to how you can answer this kind of question. 
+        - Would you mind if I borrowed your car?
+        - Positive answers
+            - Not at all. (Meaning: No, I don't mind. / No, it's not a problem.)
+            - No. Go ahead
+        - Negative answers
+            - Yes. (Meaning: Yes, I mind. / Yes, it'd be a problem.)
+            - Yes, I would.
+
+
+
+
+ZERO: facts/inexorable situations
+> if + simple present + simple present
+ex: if andrey asks for examples, the students stay silent
+
+FIRST: future consequences
+> if + simple present + will/can/may
+ex: if I go to the gym everyday, I will get in shape
+
+SECOND: hypothesis/unlikely situations
+> if + simple past + would/could/might
+ex: if Andrey wasn't so delicious, he would have a girlfriend
+
+THIRD: impossible
+> if + past perfect + would/could have + verb (past participle)
+ex: if I had slept earlier yesterday, I would have gotten up with more energy today
+
+
