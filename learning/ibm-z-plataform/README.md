@@ -1,4 +1,4 @@
-# This is my learning trail to IBM Z Plataform
+# This is my learning path to IBM Z Plataform
 
 ## Courses in [IBM Learn](https://learn.ibm.com)
 
