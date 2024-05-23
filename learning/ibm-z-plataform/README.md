@@ -4,8 +4,6 @@
 
 ### Mainframe System Administrator 
 
-[]() - [![](https://www.credly.com/favicon.ico)]()
-
 [z/OS Introduction - An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html)
 
 [Introduction to IBM z/OS](https://learn.ibm.com/course/view.php?id=6815) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/13a18569-2616-4439-8a0b-29865b9ea082/public_url)
@@ -16,13 +14,27 @@
 
 [IBM CICS Video Course Series]("https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
 
+[Modernize applications with IBM CICS](https://learn.ibm.com/course/view.php?id=8410)
+
+[Introducing z/OS Unix System Services](https://learn.ibm.com/course/view.php?id=9890)
+
+[Technical Introduction to IBM MQ](https://learn.ibm.com/course/view.php?id=291)
+
+[IMS Fundamentals](https://learn.ibm.com/mod/page/view.php?id=166615)
+
+[IMS Diagnostics](https://learn.ibm.com/course/view.php?id=7405)
+
+[IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
+
 ### Z/OS Programming
 
 [z/Architecture Assembler language: Part 1](https://learn.ibm.com/course/view.php?id=12127) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/318fe897-0f77-4927-b7ec-520a43cc7d14/public_url)
 
 [z/Architecture Assembler language: Part 2](https://learn.ibm.com/course/view.php?id=12408)
 
-### Z/OS Developer
+[z/OS REXX Programming](https://learn.ibm.com/course/view.php?id=8722)
+
+### Z/OS Development
 
 [OpenMainfram - Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 
