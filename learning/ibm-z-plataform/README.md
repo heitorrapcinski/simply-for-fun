@@ -22,9 +22,11 @@
 
 [z/Architecture Assembler language: Part 2](https://learn.ibm.com/course/view.php?id=12408)
 
+### Z/OS Developer
+
 [OpenMainfram - Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 
-[Cobol Programing Course](https://learn.ibm.com/course/view.php?id=7552)
+[Cobol Programing Course](https://learn.ibm.com/course/view.php?id=7552) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/24e207d5-32da-4365-a776-804faa595f48/public_url)
 
 ## Courses in [IBM Z Xplore](https://ibmzxplore.influitive.com)
 
