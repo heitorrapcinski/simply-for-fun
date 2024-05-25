@@ -60,7 +60,9 @@
 
 [IBM CICS Video Course Series](https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
 
-[IBM z/OS Communications Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
+[IBM z/OS CommuniDASD volume. A DASD space identified by a common label and accessed by a set of related addresses. See volume.
+
+cations Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
 
 [IBM z16 Technical Introduction](https://learn.ibm.com/pluginfile.php/1851823/mod_resource/content/1/IBM%20z16%20Technical%20Introduction.pdf)
 
@@ -71,3 +73,43 @@
 [IBM Mainframe System Administrator Apprenticeship Certificate](https://www.ibm.com/training/badge/ibm-mainframe-system-administrator-apprenticeship-certificate)
 
 [An Introduction to IBM z/OS Container Extensions (zCX)](https://www.youtube.com/watch?v=xy7NReyUnrE)
+
+[Glossary of z/OS terms and abbreviations](https://www.ibm.com/docs/en/zos-basic-skills?topic=glossary-zos-terms-abbreviations)
+
+## Glossary
+
+MVS. Multiple Virtual Storage.
+
+MVS/ESA. Multiple Virtual Storage/Enterprise Systems Architecture.
+
+DASD. direct access storage device.
+
+DASD volume. A DASD space identified by a common label and accessed by a set of related addresses. See volume.
+
+Interactive System Productivity Facility (ISPF). A dialog manager for interactive applications. It provides control and services to permit execution of dialogs.
+
+Open Systems Adapter (OSA). An integrated IBM mainframe hardware feature that combines the functions of an I/O channel with the functions of a network port to provide direct connectivity between mainframe applications and their clients on the attached network.
+
+SMP/E. System Modification Program/Extended.
+
+SNA network interconnection (SNI). The connection, by gateways, of two or more independent SNA networks to allow communication between logical units in those networks. The individual SNA networks retain their independence.
+
+LPAR. logically partitioned (mode).
+
+IPL. initial program load.
+
+SDSF. System Display and Search Facility.
+
+Resource Access Control Facility (RACF). An IBM security manager product that provides for access control by identifying and verifying the users to the system, authorizing access to protected resources, logging the detected unauthorized attempts to enter the system and logging the detected accesses to protected resources. See IBM Security Server.
+
+PARMLIB. All the members in the SYS1.PARMLIB data set that contain parameters setting the limits and controlling the behavior of z/OS.
+
+PARMLIB MEMBER. A member in the SYS1.PARMLIB data set.
+
+
+
+
+
+
+
+
