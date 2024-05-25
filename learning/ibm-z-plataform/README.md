@@ -106,6 +106,35 @@ PARMLIB. All the members in the SYS1.PARMLIB data set that contain parameters se
 
 PARMLIB MEMBER. A member in the SYS1.PARMLIB data set.
 
+VTAM. Virtual Telecommunications Access Method.
+
+VSAM. virtual storage access method.
+
+z/Architecture. An IBM architecture for mainframe computers and peripherals. The zSeries family of servers uses the z/Architecture.
+
+z/OS. A widely used operating system for IBM mainframe computers that uses 64-bit central storage.
+
+z/OS Language Environment. An IBM software product that provides a common runtime environment and common runtime services for conforming high-level language compilers.
+
+z/OS UNIX System Services (z/OS UNIX). z/OS services that support a UNIX-like environment. Users can switch between the traditional TSO/E interface and the shell interface. UNIX-skilled users can interact with the system, using a familiar set of standard commands and utilities. z/OS-skilled users can interact with the system, using familiar TSO/E commands and interactive menus to create and manage hierarchical file system files and to copy data back and forth between z/OS data sets and files. Application programmers and users have both sets of interfaces to choose from and, by making appropriate trade-offs, can choose to mix these interfaces.
+
+zAAP. zSeries Application Assist Processor.
+
+zFS. zSeries file system.
+
+zSeries. IBM enterprise servers based on z/Architecture.
+
+zSeries Application Assist Processor (zAAP). A specialized processing assist unit configured for running Java programming on selected zSeries machines.
+
+zSeries File System (zFS). A z/OS UNIX file system that stores files in VSAM linear data sets.
+
+CP. (1) central processor. (2) control point.
+
+ABEND. abnormal end.
+
+TSO. Time-sharing option. See Time Sharing Option/ Extensions (TSO/E).
+
+TSO/E. Time Sharing Option/Extensions.
 
 
 
