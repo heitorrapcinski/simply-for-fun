@@ -74,6 +74,8 @@ cations Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/
 
 [An Introduction to IBM z/OS Container Extensions (zCX)](https://www.youtube.com/watch?v=xy7NReyUnrE)
 
+[MVS Initialization and Tuning Guide](https://learn.ibm.com/pluginfile.php/1851756/mod_resource/content/2/Initialization%20and%20Tuning%20V2R5.pdf)
+
 [Glossary of z/OS terms and abbreviations](https://www.ibm.com/docs/en/zos-basic-skills?topic=glossary-zos-terms-abbreviations)
 
 ## Glossary
