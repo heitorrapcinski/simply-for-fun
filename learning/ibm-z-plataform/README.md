@@ -76,6 +76,8 @@
 
 [MVS Planning: Workload Management](https://learn.ibm.com/pluginfile.php/1851780/mod_resource/content/2/Redbooks%20Workload%20Manager.pdf)
 
+[MVS Programming:Extended Addressability Guide](https://learn.ibm.com/pluginfile.php/1851810/mod_resource/content/2/MVS%20Programming%20Extended%20Addressability%20Guide.pdf)
+
 [Glossary of z/OS terms and abbreviations](https://www.ibm.com/docs/en/zos-basic-skills?topic=glossary-zos-terms-abbreviations)
 
 ## Glossary
