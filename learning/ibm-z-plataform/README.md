@@ -60,9 +60,7 @@
 
 [IBM CICS Video Course Series](https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo?Open)
 
-[IBM z/OS CommuniDASD volume. A DASD space identified by a common label and accessed by a set of related addresses. See volume.
-
-cations Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
+[IBM z/OS V2R2 Communications Server TCP/IP Implementation: Volume 2 Standard Applications](http://www.redbooks.ibm.com/redbooks/pdfs/sg248361.pdf)
 
 [IBM z16 Technical Introduction](https://learn.ibm.com/pluginfile.php/1851823/mod_resource/content/1/IBM%20z16%20Technical%20Introduction.pdf)
 
@@ -75,6 +73,8 @@ cations Server TCP/IP Implementation](http://www.redbooks.ibm.com/redbooks/pdfs/
 [An Introduction to IBM z/OS Container Extensions (zCX)](https://www.youtube.com/watch?v=xy7NReyUnrE)
 
 [MVS Initialization and Tuning Guide](https://learn.ibm.com/pluginfile.php/1851756/mod_resource/content/2/Initialization%20and%20Tuning%20V2R5.pdf)
+
+[MVS Planning: Workload Management](https://learn.ibm.com/pluginfile.php/1851780/mod_resource/content/2/Redbooks%20Workload%20Manager.pdf)
 
 [Glossary of z/OS terms and abbreviations](https://www.ibm.com/docs/en/zos-basic-skills?topic=glossary-zos-terms-abbreviations)
 
