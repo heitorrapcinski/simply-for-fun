@@ -20,7 +20,7 @@
 
 [IMS Diagnostics](https://learn.ibm.com/course/view.php?id=7405)
 
-[z/OS Systems Services Structure](https://learn.ibm.com/course/view.php?id=11332)
+[z/OS Systems Services Structure](https://learn.ibm.com/course/view.php?id=11332) [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/c84fe46a-8efb-4466-ad6f-bad0a818eb83/public_url)
 
 [SMP/E for z/OS](https://learn.ibm.com/course/view.php?id=11233)
 
