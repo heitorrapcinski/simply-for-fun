@@ -54,6 +54,14 @@
 
 [Extended](https://ibmzxplore.influitive.com/channels/11) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/47966dbd-a082-4d3c-b5b9-52377e5772d2/public_url)
 
+## Course in [IBM SkillsBuild](https://skills.yourlearning.ibm.com/)
+
+### SoftSkills
+
+[Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49)
+
+[Professional Skills](https://skills.yourlearning.ibm.com/activity/PLAN-C4FCC67D3E76)
+
 ## RedBooks
 
 [z/OS Introduction - An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html)
