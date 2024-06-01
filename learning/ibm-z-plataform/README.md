@@ -56,8 +56,6 @@
 
 ## Course in [IBM SkillsBuild](https://skills.yourlearning.ibm.com/)
 
-### SoftSkills
-
 [Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49)
 
 [Professional Skills](https://skills.yourlearning.ibm.com/activity/PLAN-C4FCC67D3E76)
