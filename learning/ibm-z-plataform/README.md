@@ -56,7 +56,7 @@
 
 ## Course in [IBM SkillsBuild](https://skills.yourlearning.ibm.com/)
 
-[Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49)
+[Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/02b15f9b-880a-46af-b987-d4c6a31d6b3e/public_url)
 
 [Professional Skills](https://skills.yourlearning.ibm.com/activity/PLAN-C4FCC67D3E76)
 
