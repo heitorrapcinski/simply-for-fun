@@ -58,7 +58,7 @@
 
 [Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/02b15f9b-880a-46af-b987-d4c6a31d6b3e/public_url)
 
-[Professional Skills](https://skills.yourlearning.ibm.com/activity/PLAN-C4FCC67D3E76)
+[Professional Skills](https://skills.yourlearning.ibm.com/activity/PLAN-C4FCC67D3E76) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/32ce1ff5-566b-4d62-8b47-51f879a88504/public_url)
 
 ## RedBooks
 
