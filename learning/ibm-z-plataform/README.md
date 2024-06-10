@@ -92,6 +92,8 @@ MVS. Multiple Virtual Storage.
 
 MVS/ESA. Multiple Virtual Storage/Enterprise Systems Architecture.
 
+MCS. Modification control statement (in SMP/E).
+
 DASD. direct access storage device.
 
 DASD volume. A DASD space identified by a common label and accessed by a set of related addresses. See volume.
