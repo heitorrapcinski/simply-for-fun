@@ -94,6 +94,10 @@ MVS/ESA. Multiple Virtual Storage/Enterprise Systems Architecture.
 
 MCS. Modification control statement (in SMP/E).
 
+CSI. consolidated software inventory data set. See SMPCSI.
+
+SMPCSI. The SMP/E data set that contains information about the structure of a user's system as well as information needed to install the operating system on a user's system. The SMPCSI DD statement refers specifically to the CSI that contains the global zone. This is also called the master CSI.
+
 DASD. direct access storage device.
 
 DASD volume. A DASD space identified by a common label and accessed by a set of related addresses. See volume.
