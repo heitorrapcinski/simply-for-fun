@@ -22,7 +22,7 @@
 
 [z/OS Systems Services Structure](https://learn.ibm.com/course/view.php?id=11332) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/c84fe46a-8efb-4466-ad6f-bad0a818eb83/public_url)
 
-[SMP/E for z/OS](https://learn.ibm.com/course/view.php?id=11233)
+[SMP/E for z/OS](https://learn.ibm.com/course/view.php?id=11233) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/3218c60f-1be7-41f5-8faa-ba180d30c1bb/public_url)
 
 [TCP/IP Protocol Overview](https://learn.ibm.com/course/view.php?id=6239) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/bb4a4be9-d83f-4c51-9098-cdfac8d51076/public_url)
 
