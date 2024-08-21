@@ -6,7 +6,7 @@
  []()
 
 
- [![x](https://www.udemy.com/staticx/udemy/images/v8/favicon-16x16.png)](https://www.udemy.com/certificate/UC-eb1b2917-97f7-44c5-a001-d79d49279426/)
+ [![](https://github.com/heitorrapcinski/portfolio-like-a-boss/blob/main/learning/img/favicon-16x16.png)](https://www.udemy.com/certificate/UC-eb1b2917-97f7-44c5-a001-d79d49279426/)
 
 
 
