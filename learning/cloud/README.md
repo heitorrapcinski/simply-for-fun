@@ -2,7 +2,7 @@
 
 ## Courses in [Udemy](https://www.udemy.com/)
 
-[SRE: Mastering Site Reliability Engineering - PT-BR](https://www.udemy.com/course/sre-mastering-site-reliability-engineering/?couponCode=SKILLS4SALEB) - [![](../img/favicon-16x16.png)](https://www.udemy.com/certificate/UC-eb1b2917-97f7-44c5-a001-d79d49279426/)
+[Terraform - Do Básico ao Avançado](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=SKILLS4SALEB) - [![](../img/favicon-16x16.png)]()
 
 ## Courses in [Oracle MyLearn](https://mylearn.oracle.com/ou/home)
 
