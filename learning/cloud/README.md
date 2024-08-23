@@ -8,7 +8,7 @@
 
 ## Courses in [Oracle MyLearn](https://mylearn.oracle.com/ou/home)
 
-https://mylearn.oracle.com/favicon.ico
+[Oracle Cloud Infrastructure 2023 Certified Foundations Associate]() - [![](https://mylearn.oracle.com/favicon.ico)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F577397C4A3468EB73BE7FB25EA18F85CA685D4F373691BC52CA7E2682CA0875)
 
 ## Courses in [Microsoft Learn](https://learn.microsoft.com/)
 
