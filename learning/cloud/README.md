@@ -13,8 +13,5 @@
 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) - ![test](https://learn.microsoft.com/api/credentials/share/pt-br/HeitorRapcinski/DE51A9FE23657F98?sharingId=44A36E9198D085BB)
 
 
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/HeitorRapcinski/DE51A9FE23657F98?sharingId=44A36E9198D085B"><img src="https://learn.microsoft.com/favicon.ico" height="16px" width="16px"/></a>
 
-
-
-
-[![](<img src="https://learn.microsoft.com/favicon.ico" height="16px" width="16px"/>)](https://www.credly.com/badges/13a18569-2616-4439-8a0b-29865b9ea082/public_url)
