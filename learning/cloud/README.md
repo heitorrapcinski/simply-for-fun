@@ -14,3 +14,5 @@
 
 
 ![test|16x16](https://learn.microsoft.com/favicon.ico)
+
+[<img src="https://learn.microsoft.com/favicon.ico"/>](favicon.ico)
