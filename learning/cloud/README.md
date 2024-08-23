@@ -14,7 +14,7 @@
 
 
 
-<img src="https://learn.microsoft.com/favicon.ico" height="16px" width="16px"/>
 
 
-[![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/13a18569-2616-4439-8a0b-29865b9ea082/public_url)
+
+[![](<img src="https://learn.microsoft.com/favicon.ico" height="16px" width="16px"/>)](https://www.credly.com/badges/13a18569-2616-4439-8a0b-29865b9ea082/public_url)
