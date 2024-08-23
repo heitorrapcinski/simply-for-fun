@@ -2,7 +2,7 @@
 
 ## Courses in [Udemy](https://www.udemy.com/)
 
-[Terraform - Do Básico ao Avançado](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=SKILLS4SALEB) - [![](../img/favicon-16x16.png)]()
+[Terraform - Do Básico ao Avançado](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=SKILLS4SALEB) 
 
 ## Courses in [Oracle MyLearn](https://mylearn.oracle.com/ou/home)
 
