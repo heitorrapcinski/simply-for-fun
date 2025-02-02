@@ -2,6 +2,10 @@
 
 ## Courses in [IBM Learn](https://learn.ibm.com)
 
+### Architect
+
+[Architecting Applications for IBM Z and Cloud](https://learn.ibm.com/course/view.php?id=10300) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/aa1d93fb-eae4-4d05-a6c8-2a145028fc60/public_url)
+
 ### Mainframe System Administrator 
 
 [Introduction to IBM z/OS](https://learn.ibm.com/course/view.php?id=6815) - [![](https://www.credly.com/favicon.ico)](https://www.credly.com/badges/13a18569-2616-4439-8a0b-29865b9ea082/public_url)
