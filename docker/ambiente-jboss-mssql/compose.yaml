@@ -1,0 +1,24 @@
+services:
+
+  alpinelinux-jboss:
+    build: ./alpinelinux-jboss/
+
+    ports:
+      - "8080:8080"
+      - "8443:8443"
+      - "9990:9990"
+
+    depends_on:
+      - mssqlserver
+
+  mssqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+
+    ports:
+      - "1433:1433"
+
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Inter@2006.2010
+
+
