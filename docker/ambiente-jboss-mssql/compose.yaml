@@ -1,7 +1,7 @@
 services:
 
   alpinelinux-jboss:
-    build: ./setup-images/alpinelinux-jboss/
+    image: alpinelinux-jboss:latest
 
     ports:
       - "8080:8080"
@@ -12,7 +12,7 @@ services:
       - mssqlserver
 
   mssqlserver:
-    build: ./setup-images/mssqlserver-2019/
+    image: mssqlserver-2019:latest
 
     ports:
       - "1433:1433"
@@ -20,6 +20,8 @@ services:
     environment:
       - ACCEPT_EULA=Y
       - MSSQL_SA_PASSWORD=P@ssW0rd
+
+    #command: ["/bin/sh", "-c", "sleep 15 && /opt/mssql-tools18/bin/sqlcmd -No -H mssql -U sa -P P@ssW0rd -i /tmp/instnwnd.sql"]
 
 
 
