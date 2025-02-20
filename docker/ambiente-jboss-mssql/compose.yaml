@@ -1,7 +1,7 @@
 services:
 
   alpinelinux-jboss:
-    build: ./alpinelinux-jboss/
+    build: ./setup-images/alpinelinux-jboss/
 
     ports:
       - "8080:8080"
@@ -21,8 +21,11 @@ services:
       - ACCEPT_EULA=Y
       - MSSQL_SA_PASSWORD=P@ssW0rd
 
-#fazer o copy e rodar o script de banco
-#/opt/mssql-tools18/bin/sqlcmd -No -H sql1 -U sa -P P@ssW0rd -i /tmp/instnwnd.sql
-#COPY sources/instnwnd.sql /tmp/
+    volumes:
+      - ./sources/instnwnd.sql:/tmp/instnwnd.sql
+
+    command: ["/bin/sh", "-c", "/opt/mssql-tools18/bin/sqlcmd -No -H sql1 -U sa -P P@ssW0rd -i /tmp/instnwnd.sql"]
+
+
 
 
