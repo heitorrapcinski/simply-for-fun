@@ -19,6 +19,10 @@ services:
 
     environment:
       - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=Inter@2006.2010
+      - MSSQL_SA_PASSWORD=P@ssW0rd
+
+#fazer o copy e rodar o script de banco
+#/opt/mssql-tools18/bin/sqlcmd -No -H sql1 -U sa -P P@ssW0rd -i /tmp/instnwnd.sql
+#COPY sources/instnwnd.sql /tmp/
 
 
