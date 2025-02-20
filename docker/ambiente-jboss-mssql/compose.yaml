@@ -12,7 +12,7 @@ services:
       - mssqlserver
 
   mssqlserver:
-    image: mcr.microsoft.com/mssql/server:2019-latest
+    build: ./setup-images/mssqlserver-2019/
 
     ports:
       - "1433:1433"
@@ -21,10 +21,6 @@ services:
       - ACCEPT_EULA=Y
       - MSSQL_SA_PASSWORD=P@ssW0rd
 
-    volumes:
-      - ./sources/instnwnd.sql:/tmp/instnwnd.sql
-
-    command: ["/bin/sh", "-c", "/opt/mssql-tools18/bin/sqlcmd -No -H sql1 -U sa -P P@ssW0rd -i /tmp/instnwnd.sql"]
 
 
 

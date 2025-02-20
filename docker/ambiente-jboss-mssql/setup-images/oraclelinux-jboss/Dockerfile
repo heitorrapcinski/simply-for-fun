@@ -4,7 +4,7 @@ ARG BIN_PATH
 #prepare libraries and binaries
 RUN yum update -y
 RUN yum install -y unzip java-1.8.0-openjdk-devel.x86_64
-COPY bin/jboss-eap-7.4.0.zip /tmp/
+COPY ./bin/jboss-eap-7.4.0.zip /tmp/
 
 #add user
 RUN adduser jboss

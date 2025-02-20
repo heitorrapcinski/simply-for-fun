@@ -19,6 +19,15 @@ GO
 SET DATEFORMAT mdy
 GO
 
+IF EXISTS (SELECT name FROM sys.databases WHERE name = 'Northwind')
+BEGIN
+    -- Encerrar conexões ativas no banco de dados
+    ALTER DATABASE Northwind SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    
+    -- Excluir o banco de dados
+    DROP DATABASE Northwind;
+END;
+
 
 CREATE DATABASE Northwind;
 GO
