@@ -3,7 +3,8 @@ FROM alpine
 #prepare libraries and binaries
 RUN apk update
 RUN apk add openjdk8-jdk
-COPY bin/jboss-eap-7.4.0.zip /tmp/
+
+COPY ${BIN_PATH}/jboss-eap-7.4.0.zip /tmp/
 
 #add user
 RUN adduser -D jboss jboss
