@@ -1,0 +1,3 @@
+connect
+
+module add --name=com.microsoft.sqlserver --resources=$JBOSS_HOME/modules/system/layers/base/com/microsoft/main/mssql-jdbc-12.8.1.jre8.jar --dependencies=javax.api,javax.transaction.api

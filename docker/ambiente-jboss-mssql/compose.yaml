@@ -1,7 +1,9 @@
 services:
 
-  alpinelinux-jboss:
+  middleware-jboss:
     image: alpinelinux-jboss:latest
+
+    hostname: middleware-jboss
 
     ports:
       - "8080:8080"
@@ -9,10 +11,15 @@ services:
       - "9990:9990"
 
     depends_on:
-      - mssqlserver
+      - database-mssqlserver
 
-  mssqlserver:
-    image: mssqlserver-2019:latest
+    volumes:
+      - ./sources/jboss-config.cli:/tmp/jboss-config.cli
+
+  database-mssqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+
+    hostname: database-mssqlserver
 
     ports:
       - "1433:1433"
@@ -20,10 +27,13 @@ services:
     environment:
       - ACCEPT_EULA=Y
       - MSSQL_SA_PASSWORD=P@ssW0rd
+      - MSSQL_PID=Developer
 
-    #command: ["/bin/sh", "-c", "sleep 15 && /opt/mssql-tools18/bin/sqlcmd -No -H mssql -U sa -P P@ssW0rd -i /tmp/instnwnd.sql"]
+    volumes:
+      - database_volume:/var/opt/mssql
+      - ./sources/instnwnd.sql:/tmp/instnwnd.sql
 
-
-
+volumes:
+  database_volume:
 
 

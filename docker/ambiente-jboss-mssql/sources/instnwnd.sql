@@ -3,8 +3,6 @@
 ** All Rights Reserved.
 */
 
--- This script does not create a database.
--- Run this script in the database you want the objects to be created.
 -- Default schema is dbo.
 
 SET NOCOUNT ON
@@ -19,15 +17,29 @@ GO
 SET DATEFORMAT mdy
 GO
 
+USE master;
+GO
+
+-- Action=DROP If database exists DROP
+-- Action=RETURN If database exists RETURN
+DECLARE @Action VARCHAR(10) = 'RETURN'; 
+
 IF EXISTS (SELECT name FROM sys.databases WHERE name = 'Northwind')
 BEGIN
-    -- Encerrar conexões ativas no banco de dados
-    ALTER DATABASE Northwind SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    
-    -- Excluir o banco de dados
-    DROP DATABASE Northwind;
+    IF @Action = 'RETURN'
+    BEGIN
+		RAISERROR ('END SCRIPT', 20, 1) WITH LOG;	
+    END
+    ELSE IF @Action = 'DROP'
+    BEGIN
+        -- End connections
+        ALTER DATABASE Northwind SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+        
+        -- Drop database
+        DROP DATABASE Northwind;
+        PRINT 'Database Northwind dropped';
+    END
 END;
-
 
 CREATE DATABASE Northwind;
 GO
@@ -67,9 +79,9 @@ CREATE TABLE "Employees" (
 	CONSTRAINT "CK_Birthdate" CHECK (BirthDate < getdate())
 )
 GO
- CREATE  INDEX "LastName" ON "dbo"."Employees"("LastName")
+CREATE  INDEX "LastName" ON "dbo"."Employees"("LastName")
 GO
- CREATE  INDEX "PostalCode" ON "dbo"."Employees"("PostalCode")
+CREATE  INDEX "PostalCode" ON "dbo"."Employees"("PostalCode")
 GO
 
 CREATE TABLE "Categories" (
@@ -83,7 +95,7 @@ CREATE TABLE "Categories" (
 	)
 )
 GO
- CREATE  INDEX "CategoryName" ON "dbo"."Categories"("CategoryName")
+CREATE  INDEX "CategoryName" ON "dbo"."Categories"("CategoryName")
 GO
 
 CREATE TABLE "Customers" (
@@ -104,13 +116,13 @@ CREATE TABLE "Customers" (
 	)
 )
 GO
- CREATE  INDEX "City" ON "dbo"."Customers"("City")
+CREATE  INDEX "City" ON "dbo"."Customers"("City")
 GO
- CREATE  INDEX "CompanyName" ON "dbo"."Customers"("CompanyName")
+CREATE  INDEX "CompanyName" ON "dbo"."Customers"("CompanyName")
 GO
- CREATE  INDEX "PostalCode" ON "dbo"."Customers"("PostalCode")
+CREATE  INDEX "PostalCode" ON "dbo"."Customers"("PostalCode")
 GO
- CREATE  INDEX "Region" ON "dbo"."Customers"("Region")
+CREATE  INDEX "Region" ON "dbo"."Customers"("Region")
 GO
 
 CREATE TABLE "Shippers" (
@@ -142,9 +154,9 @@ CREATE TABLE "Suppliers" (
 	)
 )
 GO
- CREATE  INDEX "CompanyName" ON "dbo"."Suppliers"("CompanyName")
+CREATE  INDEX "CompanyName" ON "dbo"."Suppliers"("CompanyName")
 GO
- CREATE  INDEX "PostalCode" ON "dbo"."Suppliers"("PostalCode")
+CREATE  INDEX "PostalCode" ON "dbo"."Suppliers"("PostalCode")
 GO
 
 CREATE TABLE "Orders" (
@@ -186,21 +198,21 @@ CREATE TABLE "Orders" (
 	)
 )
 GO
- CREATE  INDEX "CustomerID" ON "dbo"."Orders"("CustomerID")
+CREATE  INDEX "CustomerID" ON "dbo"."Orders"("CustomerID")
 GO
- CREATE  INDEX "CustomersOrders" ON "dbo"."Orders"("CustomerID")
+CREATE  INDEX "CustomersOrders" ON "dbo"."Orders"("CustomerID")
 GO
- CREATE  INDEX "EmployeeID" ON "dbo"."Orders"("EmployeeID")
+CREATE  INDEX "EmployeeID" ON "dbo"."Orders"("EmployeeID")
 GO
- CREATE  INDEX "EmployeesOrders" ON "dbo"."Orders"("EmployeeID")
+CREATE  INDEX "EmployeesOrders" ON "dbo"."Orders"("EmployeeID")
 GO
- CREATE  INDEX "OrderDate" ON "dbo"."Orders"("OrderDate")
+CREATE  INDEX "OrderDate" ON "dbo"."Orders"("OrderDate")
 GO
- CREATE  INDEX "ShippedDate" ON "dbo"."Orders"("ShippedDate")
+CREATE  INDEX "ShippedDate" ON "dbo"."Orders"("ShippedDate")
 GO
- CREATE  INDEX "ShippersOrders" ON "dbo"."Orders"("ShipVia")
+CREATE  INDEX "ShippersOrders" ON "dbo"."Orders"("ShipVia")
 GO
- CREATE  INDEX "ShipPostalCode" ON "dbo"."Orders"("ShipPostalCode")
+CREATE  INDEX "ShipPostalCode" ON "dbo"."Orders"("ShipPostalCode")
 GO
 
 CREATE TABLE "Products" (
@@ -236,15 +248,15 @@ CREATE TABLE "Products" (
 	CONSTRAINT "CK_UnitsOnOrder" CHECK (UnitsOnOrder >= 0)
 )
 GO
- CREATE  INDEX "CategoriesProducts" ON "dbo"."Products"("CategoryID")
+CREATE  INDEX "CategoriesProducts" ON "dbo"."Products"("CategoryID")
 GO
- CREATE  INDEX "CategoryID" ON "dbo"."Products"("CategoryID")
+CREATE  INDEX "CategoryID" ON "dbo"."Products"("CategoryID")
 GO
- CREATE  INDEX "ProductName" ON "dbo"."Products"("ProductName")
+CREATE  INDEX "ProductName" ON "dbo"."Products"("ProductName")
 GO
- CREATE  INDEX "SupplierID" ON "dbo"."Products"("SupplierID")
+CREATE  INDEX "SupplierID" ON "dbo"."Products"("SupplierID")
 GO
- CREATE  INDEX "SuppliersProducts" ON "dbo"."Products"("SupplierID")
+CREATE  INDEX "SuppliersProducts" ON "dbo"."Products"("SupplierID")
 GO
 
 CREATE TABLE "Order Details" (
@@ -275,13 +287,13 @@ CREATE TABLE "Order Details" (
 	CONSTRAINT "CK_UnitPrice" CHECK (UnitPrice >= 0)
 )
 GO
- CREATE  INDEX "OrderID" ON "dbo"."Order Details"("OrderID")
+CREATE  INDEX "OrderID" ON "dbo"."Order Details"("OrderID")
 GO
- CREATE  INDEX "OrdersOrder_Details" ON "dbo"."Order Details"("OrderID")
+CREATE  INDEX "OrdersOrder_Details" ON "dbo"."Order Details"("OrderID")
 GO
- CREATE  INDEX "ProductID" ON "dbo"."Order Details"("ProductID")
+CREATE  INDEX "ProductID" ON "dbo"."Order Details"("ProductID")
 GO
- CREATE  INDEX "ProductsOrder_Details" ON "dbo"."Order Details"("ProductID")
+CREATE  INDEX "ProductsOrder_Details" ON "dbo"."Order Details"("ProductID")
 GO
 
 
@@ -8954,16 +8966,16 @@ go
 /* The following adds stored procedures */
 
 if exists (select * from sysobjects where id = object_id('dbo.CustOrdersDetail'))
-    drop procedure dbo.CustOrdersDetail
+	drop procedure dbo.CustOrdersDetail
 GO
 
 CREATE PROCEDURE CustOrdersDetail @OrderID int
 AS
 SELECT ProductName,
-    UnitPrice=ROUND(Od.UnitPrice, 2),
-    Quantity,
-    Discount=CONVERT(int, Discount * 100), 
-    ExtendedPrice=ROUND(CONVERT(money, Quantity * (1 - Discount) * Od.UnitPrice), 2)
+	UnitPrice=ROUND(Od.UnitPrice, 2),
+	Quantity,
+	Discount=CONVERT(int, Discount * 100), 
+	ExtendedPrice=ROUND(CONVERT(money, Quantity * (1 - Discount) * Od.UnitPrice), 2)
 FROM Products P, [Order Details] Od
 WHERE Od.ProductID = P.ProductID and Od.OrderID = @OrderID
 go
@@ -9001,7 +9013,7 @@ if exists (select * from sysobjects where id = object_id('dbo.SalesByCategory') 
 	drop procedure dbo.SalesByCategory
 GO
 CREATE PROCEDURE SalesByCategory
-    @CategoryName nvarchar(15), @OrdYear nvarchar(4) = '1998'
+	@CategoryName nvarchar(15), @OrdYear nvarchar(4) = '1998'
 AS
 IF @OrdYear != '1996' AND @OrdYear != '1997' AND @OrdYear != '1998' 
 BEGIN
@@ -9045,7 +9057,7 @@ GO
 CREATE TABLE [dbo].[Territories] 
 	([TerritoryID] [nvarchar] (20) NOT NULL ,
 	[TerritoryDescription] [nchar] (50) NOT NULL ,
-        [RegionID] [int] NOT NULL
+		[RegionID] [int] NOT NULL
 ) ON [PRIMARY]
 GO
 
