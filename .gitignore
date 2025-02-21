@@ -1,2 +1,9 @@
+#docker
 jboss*.zip
 mssql*.jar
+
+#vscode
+.vscode/
+
+#maven
+target/
