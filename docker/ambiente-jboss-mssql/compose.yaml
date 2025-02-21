@@ -30,7 +30,7 @@ services:
       - MSSQL_PID=Developer
 
     volumes:
-      - database_volume:/var/opt/mssql
+      - database_volume:/var/opt/mssql/
       - ./sources/instnwnd.sql:/tmp/instnwnd.sql
 
 volumes:
