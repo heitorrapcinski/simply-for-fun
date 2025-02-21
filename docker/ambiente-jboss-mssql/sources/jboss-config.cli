@@ -1,3 +1,9 @@
 connect
 
-module add --name=com.microsoft.sqlserver --resources=$JBOSS_HOME/modules/system/layers/base/com/microsoft/main/mssql-jdbc-12.8.1.jre8.jar --dependencies=javax.api,javax.transaction.api
+module add --name=com.microsoft.sqlserver --resources=/opt/jboss-eap-7.4/modules/system/layers/base/com/microsoft/main/mssql-jdbc-12.8.1.jre8.jar --dependencies=javax.api,javax.transaction.api
+
+/subsystem=datasources/jdbc-driver=mssql:add(driver-name=mssql, driver-module-name=com.microsoft.sqlserver, driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver)
+
+/subsystem=datasources/data-source=NorthwindDS:add(jndi-name=java:/NorthwindDS,enabled=true,use-ccm=true,connection-url="jdbc:sqlserver://database-mssqlserver:1433;databaseName=Northwind;encrypt=false",driver-name=mssql,user-name=sa,password=P@ssW0rd,min-pool-size=5,max-pool-size=20,idle-timeout-minutes=10,validate-on-match=true,background-validation=true,background-validation-millis=30000,valid-connection-checker-class-name=org.jboss.jca.adapters.jdbc.extensions.mssql.MSSQLValidConnectionChecker,exception-sorter-class-name=org.jboss.jca.adapters.jdbc.extensions.mssql.MSSQLExceptionSorter)
+
+reload

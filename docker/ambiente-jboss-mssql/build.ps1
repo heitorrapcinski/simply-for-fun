@@ -9,6 +9,7 @@ docker build -t oraclelinux-jboss:latest -f .\setup-images\oraclelinux-jboss\Doc
 docker-compose up
 
 #config JBoss
+docker exec ambiente-jboss-mssql-middleware-jboss-1 /opt/jboss-eap-7.4/bin/jboss-cli.sh --file=/tmp/jboss-config.cli
 
 #create database
 docker exec ambiente-jboss-mssql-database-mssqlserver-1 /opt/mssql-tools18/bin/sqlcmd -No -H  database-mssqlserver -U sa -P P@ssW0rd -i /tmp/instnwnd.sql
