@@ -19,6 +19,7 @@
 			<version>${version}</version>
 			<scope>provided</scope>
 		</dependency>
+		<!--
 		<dependency>
 			<groupId>com.sun.facelets</groupId>
 			<artifactId>jsf-facelets</artifactId>
@@ -39,6 +40,7 @@
 			<artifactId>richfaces-ui</artifactId>
 			<version>3.3.3.Final</version>
 		</dependency>
+		-->
 	</dependencies>
 	
 </project>
