@@ -15,6 +15,7 @@
 		<encoding.default>UTF-8</encoding.default>
 	</properties>
 
+	<!--
 	<repositories>
 		<repository>
 			<id>maven2-repository.java.net</id>
@@ -28,6 +29,7 @@
 			<url>http://repository.jboss.org/nexus/content/groups/public-jboss/</url>
 		</repository>
 	</repositories>
+	-->
 
 	<build>
 		<resources>

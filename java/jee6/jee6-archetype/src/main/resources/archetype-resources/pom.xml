@@ -8,8 +8,8 @@
 	<version>${version}</version>
 	<packaging>pom</packaging>
 
-	<name>JEE 5 Exemplo 1</name>
-	<description>JEE 5 Exemplo 1</description>
+	<name>JEE 6 Sample</name>
+	<description>JEE 6 Sample</description>
 
 	<properties>
 		<encoding.default>UTF-8</encoding.default>
