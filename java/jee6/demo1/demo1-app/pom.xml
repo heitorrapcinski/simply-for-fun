@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>fun.justhaving</groupId>
+		<artifactId>demo1</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>demo1-app</artifactId>
+	<packaging>ear</packaging>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-ear-plugin</artifactId>
+				<version>3.3.0</version>
+				<configuration>
+					<defaultLibBundleDir>lib</defaultLibBundleDir>
+					<version>6</version>
+					<encoding>${encoding.default}</encoding>
+					<modules>
+						<jarModule>
+							<groupId>fun.justhaving</groupId>
+							<artifactId>demo1-ejb-client</artifactId>
+							<bundleDir>/</bundleDir>
+							<includeInApplicationXml>true</includeInApplicationXml>							
+						</jarModule>
+						<ejbModule>
+							<groupId>fun.justhaving</groupId>
+							<artifactId>demo1-ejb</artifactId>
+						</ejbModule>
+						<webModule>
+							<groupId>fun.justhaving</groupId>
+							<artifactId>demo1-web</artifactId>
+							<contextRoot>/demo1-web</contextRoot>
+						</webModule>
+					</modules>
+				</configuration>
+			</plugin>			
+		</plugins>
+	</build>
+	
+	<dependencies>
+		<dependency>
+			<groupId>fun.justhaving</groupId>
+			<artifactId>demo1-ejb-client</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>	
+		<dependency>
+			<groupId>fun.justhaving</groupId>
+			<artifactId>demo1-ejb</artifactId>
+			<version>1.0-SNAPSHOT</version>
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>fun.justhaving</groupId>
+			<artifactId>demo1-web</artifactId>
+			<version>1.0-SNAPSHOT</version>
+			<type>war</type>
+		</dependency>
+	</dependencies>
+	
+</project>
