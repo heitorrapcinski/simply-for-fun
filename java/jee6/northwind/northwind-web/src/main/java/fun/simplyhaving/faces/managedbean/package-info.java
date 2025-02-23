@@ -1,0 +1,1 @@
+package fun.simplyhaving.faces.managedbean;
