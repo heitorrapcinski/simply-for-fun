@@ -4,8 +4,8 @@
   <artifactId>northwind</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>JEE 6 Sample</name>
-  <description>JEE 6 Sample</description>
+  <name>northwind</name>
+  <description>JEE 6 Sample with Northwind Database</description>
   <properties>
     <encoding.default>UTF-8</encoding.default>
   </properties>
