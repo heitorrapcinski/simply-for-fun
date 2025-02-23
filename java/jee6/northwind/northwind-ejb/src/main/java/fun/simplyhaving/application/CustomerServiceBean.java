@@ -47,8 +47,8 @@ public class CustomerServiceBean implements CustomerService {
 	}
 
 	@Override
-	public void removeCustomer(Customer customer) {
-		customerRepository.deleteById(customer.getId());
+	public void removeCustomer(Long id) {
+		customerRepository.remove(getCustomerById(id));
 	}
 
 	@Override
