@@ -7,12 +7,14 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
+import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import fun.simplyhaving.domain.Customer;
 
-@Entity
+@Entity(name = "Customer")
+@Table(name = "Customers")
 @NamedQueries({
         @NamedQuery(name = CustomerEntity.FIND_BY_ID, query = "SELECT c FROM Customer c WHERE c.id = :id"),
         @NamedQuery(name = CustomerEntity.FIND_ALL, query = "SELECT c FROM Customer c")
@@ -24,28 +26,29 @@ public class CustomerEntity extends Customer {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name = "CustomerID")
     private Long id;
-    @Column(nullable = false, length = 40)
+    @Column(name="CompanyName",nullable = false, length = 40)
     @NotNull
     @Size(min = 1, max = 40)
     private String companyName;
-    @Column(length = 30)
+    @Column(name="ContactTitle",length = 30)
     private String contactTitle;
-    @Column(length = 30)
+    @Column(name="ContactName",length = 30)
     private String contactName;
-    @Column(length = 60)
+    @Column(name="Address",length = 60)
     private String address;
-    @Column(length = 15)
+    @Column(name="City",length = 15)
     private String city;
-    @Column(length = 15)
+    @Column(name="Region",length = 15)
     private String region;
-    @Column(length = 10)
+    @Column(name="PostalCode",length = 10)
     private String postalCode;
-    @Column(length = 15)
+    @Column(name="Country",length = 15)
     private String country;
-    @Column(length = 24)
+    @Column(name="Phone",length = 24)
     private String phone;
-    @Column(length = 24)
+    @Column(name="Fax",length = 24)
     private String fax;    
     
     @Override
