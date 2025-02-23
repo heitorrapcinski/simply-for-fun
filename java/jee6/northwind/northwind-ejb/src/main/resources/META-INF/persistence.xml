@@ -7,6 +7,7 @@
     <persistence-unit name="NorthwindPU" transaction-type="JTA">
         <jta-data-source>java:/NorthwindDS</jta-data-source>
         <properties>
+			<property name="hibernate.generate_statistics" value="true"/>
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.DerbyTenSevenDialect"/>
