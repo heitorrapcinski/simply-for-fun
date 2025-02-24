@@ -6,10 +6,14 @@
 	<parent>
 		<groupId>fun.simplyhaving</groupId>
 		<artifactId>northwind</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	
-	<artifactId>northwind-ejb</artifactId>
+	<artifactId>northwind-implementation</artifactId>
+	<description>
+		Application Layer: Defines use cases and coordinates interactions with the domain.
+		Infrastructure Layer: Manages technical details such as persistence and external integrations.
+	</description>
 	<packaging>ejb</packaging>
 	
 	<build>
@@ -28,8 +32,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>fun.simplyhaving</groupId>
-			<artifactId>northwind-ejb-client</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<artifactId>northwind-domain</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	

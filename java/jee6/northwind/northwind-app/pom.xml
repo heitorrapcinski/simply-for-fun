@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>fun.simplyhaving</groupId>
 		<artifactId>northwind</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>northwind-app</artifactId>
@@ -25,17 +25,21 @@
 					<modules>
 						<jarModule>
 							<groupId>fun.simplyhaving</groupId>
-							<artifactId>northwind-ejb-client</artifactId>
+							<artifactId>northwind-domain</artifactId>
 							<bundleDir>/</bundleDir>
 							<includeInApplicationXml>true</includeInApplicationXml>							
 						</jarModule>
 						<ejbModule>
 							<groupId>fun.simplyhaving</groupId>
-							<artifactId>northwind-ejb</artifactId>
+							<artifactId>northwind-implementation</artifactId>
+						</ejbModule>
+						<ejbModule>
+							<groupId>fun.simplyhaving</groupId>
+							<artifactId>northwind-interface-rest</artifactId>
 						</ejbModule>
 						<webModule>
 							<groupId>fun.simplyhaving</groupId>
-							<artifactId>northwind-web</artifactId>
+							<artifactId>northwind-interface-web</artifactId>
 							<contextRoot>/northwind-web</contextRoot>
 						</webModule>
 					</modules>
@@ -47,19 +51,25 @@
 	<dependencies>
 		<dependency>
 			<groupId>fun.simplyhaving</groupId>
-			<artifactId>northwind-ejb-client</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<artifactId>northwind-domain</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>	
 		<dependency>
 			<groupId>fun.simplyhaving</groupId>
-			<artifactId>northwind-ejb</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<artifactId>northwind-implementation</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 			<type>ejb</type>
 		</dependency>
 		<dependency>
 			<groupId>fun.simplyhaving</groupId>
-			<artifactId>northwind-web</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<artifactId>northwind-interface-rest</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>fun.simplyhaving</groupId>
+			<artifactId>northwind-interface-web</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 			<type>war</type>
 		</dependency>
 	</dependencies>

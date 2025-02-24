@@ -6,9 +6,10 @@
 	<parent>
 		<artifactId>northwind</artifactId>
 		<groupId>fun.simplyhaving</groupId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>northwind-ejb-client</artifactId>
+	<artifactId>northwind-domain</artifactId>
+	<description>Domain Layer: Contains core business rules (entities, value objects, domain services).</description>
 
 </project>
