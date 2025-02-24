@@ -32,7 +32,11 @@ public class Catalog implements Serializable {
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes(MediaType.APPLICATION_JSON)
     public List<Customer> getAllCustomers() {
-        return customerService.getAllCustomers();
+        List<Customer> list = customerService.getAllCustomers();
+
+        System.out.println(list.get(0).getId());
+
+        return list;
     }
     
 }

@@ -47,8 +47,21 @@ public class CustomerEntity extends Customer {
     private String phone;
     @Column(name="Fax",length = 24)
     private String fax;    
+
+    public CustomerEntity(Customer customer) {
+        this.id = customer.getId();
+        this.companyName = customer.getCompanyName();
+        this.contactTitle = customer.getContactTitle();
+        this.contactName = customer.getContactName();
+        this.address = customer.getAddress();
+        this.city = customer.getCity();
+        this.region = customer.getRegion();
+        this.postalCode = customer.getPostalCode();
+        this.country = customer.getCountry();
+        this.phone = customer.getPhone();
+        this.fax = customer.getFax();
+    }
     
-    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof Customer)) return false;
@@ -60,12 +73,10 @@ public class CustomerEntity extends Customer {
         return true;
     }
 
-    @Override
     public int hashCode() {
         return id.hashCode();
     }
 
-    @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder();
         sb.append("Customer");
@@ -84,5 +95,20 @@ public class CustomerEntity extends Customer {
         return sb.toString();
     }
 
+    public Customer toCustomer() {
+        Customer customer = new Customer();
+        customer.setId(id);
+        customer.setCompanyName(companyName);
+        customer.setContactTitle(contactTitle);
+        customer.setContactName(contactName);
+        customer.setAddress(address);
+        customer.setCity(city);
+        customer.setRegion(region);
+        customer.setPostalCode(postalCode);
+        customer.setCountry(country);
+        customer.setPhone(phone);
+        customer.setFax(fax);
+        return customer;
+    }
 
 }

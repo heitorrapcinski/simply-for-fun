@@ -1,5 +1,6 @@
 package fun.simplyhaving.infrastructure.persistence;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.ejb.Local;
@@ -23,26 +24,33 @@ public class CustomerRepositoryBean implements CustomerRepository {
         if (id == null)
             throw new IllegalArgumentException("Customer Id is null");
 
-        TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_BY_ID, Customer.class);
+        TypedQuery<CustomerEntity> typedQuery = em.createNamedQuery(CustomerEntity.FIND_BY_ID, CustomerEntity.class);
         typedQuery.setParameter("id", id);
 
         try {
-            return typedQuery.getSingleResult();
+            return typedQuery.getSingleResult().toCustomer();
         } catch (NoResultException e) {
             return null;
         }
 	}
 
 	public List<Customer> findAll() {
-        TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
-        return typedQuery.getResultList();
+        TypedQuery<CustomerEntity> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, CustomerEntity.class);
+        List<CustomerEntity> entityList = typedQuery.getResultList();
+
+        ArrayList<Customer> list = new ArrayList<Customer>();
+        for (CustomerEntity customerEntity : entityList) {
+            list.add(customerEntity.toCustomer());
+        }       
+
+        return list;
 	}
 
 	public Customer save(Customer customer) {
         if (customer == null)
             throw new IllegalArgumentException("Customer object is null");
 
-        em.persist(customer);
+        em.persist(new CustomerEntity(customer));
 
         return customer;
 	}
@@ -51,7 +59,7 @@ public class CustomerRepositoryBean implements CustomerRepository {
         if (customer == null)
             throw new IllegalArgumentException("Customer object is null");
 
-		em.remove(em.merge(customer));
+		em.remove(em.merge(new CustomerEntity(customer)));
 	}
 
 }
