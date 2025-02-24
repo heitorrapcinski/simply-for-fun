@@ -48,6 +48,9 @@ public class CustomerEntity extends Customer {
     @Column(name="Fax",length = 24)
     private String fax;    
 
+    public CustomerEntity() {
+    }
+
     public CustomerEntity(Customer customer) {
         this.id = customer.getId();
         this.companyName = customer.getCompanyName();
