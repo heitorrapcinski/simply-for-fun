@@ -18,10 +18,11 @@ public class CustomerServiceBean implements CustomerService {
 	private CustomerRepository customerRepository;
 
 	@Override
-	public Customer createCustomer(String companyName, String contactTitle, String contactName, String address,
+	public Customer createCustomer(String id, String companyName, String contactTitle, String contactName, String address,
 			String city, String region, String postalCode, String country, String phone, String fax) {
 		
 		Customer customer = new Customer();
+		customer.setId(id);
 		customer.setCompanyName(companyName);
 		customer.setContactTitle(contactTitle);
 		customer.setContactName(contactName);
@@ -42,12 +43,12 @@ public class CustomerServiceBean implements CustomerService {
 	}
 
 	@Override
-	public Customer getCustomerById(Integer id) {
+	public Customer getCustomerById(String id) {
 		return customerRepository.findById(id);
 	}
 
 	@Override
-	public void removeCustomer(Integer id) {
+	public void removeCustomer(String id) {
 		customerRepository.remove(getCustomerById(id));
 	}
 

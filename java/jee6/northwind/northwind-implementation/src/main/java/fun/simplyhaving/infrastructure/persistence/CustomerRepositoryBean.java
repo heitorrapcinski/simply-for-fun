@@ -19,7 +19,7 @@ public class CustomerRepositoryBean implements CustomerRepository {
 	@PersistenceContext
 	private EntityManager em;
 
-	public Customer findById(Integer id) {
+	public Customer findById(String id) {
         if (id == null)
             throw new IllegalArgumentException("Customer Id is null");
 
@@ -36,13 +36,6 @@ public class CustomerRepositoryBean implements CustomerRepository {
 	public List<Customer> findAll() {
         TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
         return typedQuery.getResultList();
-        // List<Customer> list = new ArrayList<Customer>();
-        // CustomerEntity e = new CustomerEntity();
-        // e.setId(1);
-        // e.setCompanyName("TEST");
-        // list.add(e);
-
-        // return list;
 	}
 
 	public Customer save(Customer customer) {

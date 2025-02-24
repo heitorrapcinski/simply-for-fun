@@ -2,8 +2,6 @@ package fun.simplyhaving.infrastructure.persistence;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
@@ -25,9 +23,8 @@ public class CustomerEntity extends Customer {
     public static final String FIND_ALL = "Customer.findAll";
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "CustomerID")
-    private Integer id;
+    @Column(name = "CustomerID", columnDefinition = "NCHAR(5)", length = 5, nullable = false)
+    private String id;
     @Column(name="CompanyName",nullable = false, length = 40)
     @NotNull
     @Size(min = 1, max = 40)
