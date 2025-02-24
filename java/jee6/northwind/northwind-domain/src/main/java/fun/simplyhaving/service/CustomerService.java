@@ -2,7 +2,7 @@ package fun.simplyhaving.service;
 
 import java.util.List;
 
-import fun.simplyhaving.domain.Customer;
+import fun.simplyhaving.model.Customer;
 
 public interface CustomerService {
 

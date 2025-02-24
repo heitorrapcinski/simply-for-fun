@@ -6,9 +6,9 @@ import javax.ejb.EJB;
 import javax.ejb.Local;
 import javax.ejb.Stateless;
 
-import fun.simplyhaving.domain.Customer;
-import fun.simplyhaving.repository.CustomerRepository;
-import fun.simplyhaving.service.CustomerService;
+import fun.simplyhaving.model.Customer;;
+import fun.simplyhaving.infrastructure.CustomerRepository;
+import fun.simplyhaving.service.CustomerService;;
 
 @Stateless
 @Local(value = CustomerService.class)

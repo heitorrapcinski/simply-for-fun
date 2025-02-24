@@ -1,4 +1,4 @@
-package fun.simplyhaving.persistence;
+package fun.simplyhaving.infrastructure.persistence;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import javax.persistence.NoResultException;
 import javax.persistence.PersistenceUnit;
 import javax.persistence.TypedQuery;
 
-import fun.simplyhaving.domain.Customer;
-import fun.simplyhaving.repository.CustomerRepository;
+import fun.simplyhaving.model.Customer;
+import fun.simplyhaving.infrastructure.CustomerRepository;
 
 @Stateless
 @Local(value=CustomerRepository.class)

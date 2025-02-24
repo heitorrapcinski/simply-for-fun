@@ -1,4 +1,4 @@
-package fun.simplyhaving.persistence;
+package fun.simplyhaving.infrastructure.persistence;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import fun.simplyhaving.domain.Customer;
+import fun.simplyhaving.model.Customer;
 
 @Entity(name = "Customer")
 @Table(name = "Customers")

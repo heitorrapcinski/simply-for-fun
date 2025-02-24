@@ -1,8 +1,8 @@
-package fun.simplyhaving.repository;
+package fun.simplyhaving.infrastructure;
 
 import java.util.List;
 
-import fun.simplyhaving.domain.Customer;
+import fun.simplyhaving.model.Customer;
 
 public interface CustomerRepository {
 

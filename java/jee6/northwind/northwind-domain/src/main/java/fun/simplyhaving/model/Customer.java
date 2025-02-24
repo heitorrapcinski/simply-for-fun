@@ -1,4 +1,4 @@
-package fun.simplyhaving.domain;
+package fun.simplyhaving.model;
 
 public class Customer {
     
