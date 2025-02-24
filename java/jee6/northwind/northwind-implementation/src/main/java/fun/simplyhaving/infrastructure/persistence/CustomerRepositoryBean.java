@@ -1,12 +1,12 @@
 package fun.simplyhaving.infrastructure.persistence;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.ejb.Local;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
-import javax.persistence.PersistenceUnit;
 import javax.persistence.TypedQuery;
 
 import fun.simplyhaving.model.Customer;
@@ -16,10 +16,9 @@ import fun.simplyhaving.infrastructure.CustomerRepository;
 @Local(value=CustomerRepository.class)
 public class CustomerRepositoryBean implements CustomerRepository {
 	
-	@PersistenceUnit
+	//@PersistenceUnit(unitName = "NorthwindPU")
 	private EntityManager em;
 
-	@Override
 	public Customer findById(Integer id) {
         if (id == null)
             throw new IllegalArgumentException("Customer Id is null");
@@ -34,13 +33,19 @@ public class CustomerRepositoryBean implements CustomerRepository {
         }
 	}
 
-	@Override
 	public List<Customer> findAll() {
-        TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
-        return typedQuery.getResultList();
+        //TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
+        //return typedQuery.getResultList();
+
+        List<Customer> list = new ArrayList<Customer>();
+        CustomerEntity e = new CustomerEntity();
+        e.setId(1);
+        e.setCompanyName("TEST");
+        list.add(e);
+
+        return list;
 	}
 
-	@Override
 	public Customer save(Customer customer) {
         if (customer == null)
             throw new IllegalArgumentException("Customer object is null");
@@ -50,7 +55,6 @@ public class CustomerRepositoryBean implements CustomerRepository {
         return customer;
 	}
 
-	@Override
 	public void remove(Customer customer) {
         if (customer == null)
             throw new IllegalArgumentException("Customer object is null");
