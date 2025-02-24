@@ -1,13 +1,12 @@
 package fun.simplyhaving.infrastructure.persistence;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import javax.ejb.Local;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
-import javax.persistence.PersistenceUnit;
+import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
 
 import fun.simplyhaving.model.Customer;
@@ -17,7 +16,7 @@ import fun.simplyhaving.infrastructure.CustomerRepository;
 @Local(value=CustomerRepository.class)
 public class CustomerRepositoryBean implements CustomerRepository {
 	
-	@PersistenceUnit(name = "NorthwindPU")
+	@PersistenceContext
 	private EntityManager em;
 
 	public Customer findById(Integer id) {
@@ -35,16 +34,15 @@ public class CustomerRepositoryBean implements CustomerRepository {
 	}
 
 	public List<Customer> findAll() {
-        //TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
-        //return typedQuery.getResultList();
+        TypedQuery<Customer> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, Customer.class);
+        return typedQuery.getResultList();
+        // List<Customer> list = new ArrayList<Customer>();
+        // CustomerEntity e = new CustomerEntity();
+        // e.setId(1);
+        // e.setCompanyName("TEST");
+        // list.add(e);
 
-        List<Customer> list = new ArrayList<Customer>();
-        CustomerEntity e = new CustomerEntity();
-        e.setId(1);
-        e.setCompanyName("TEST");
-        list.add(e);
-
-        return list;
+        // return list;
 	}
 
 	public Customer save(Customer customer) {
