@@ -7,6 +7,7 @@ import javax.ejb.Local;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
+import javax.persistence.PersistenceUnit;
 import javax.persistence.TypedQuery;
 
 import fun.simplyhaving.model.Customer;
@@ -16,7 +17,7 @@ import fun.simplyhaving.infrastructure.CustomerRepository;
 @Local(value=CustomerRepository.class)
 public class CustomerRepositoryBean implements CustomerRepository {
 	
-	//@PersistenceUnit(unitName = "NorthwindPU")
+	@PersistenceUnit(name = "NorthwindPU")
 	private EntityManager em;
 
 	public Customer findById(Integer id) {
