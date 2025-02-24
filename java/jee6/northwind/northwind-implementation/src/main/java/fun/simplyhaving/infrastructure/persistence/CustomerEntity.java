@@ -49,9 +49,11 @@ public class CustomerEntity extends Customer {
     private String fax;    
 
     public CustomerEntity() {
+        super();
     }
 
     public CustomerEntity(Customer customer) {
+        super();
         this.id = customer.getId();
         this.companyName = customer.getCompanyName();
         this.contactTitle = customer.getContactTitle();
