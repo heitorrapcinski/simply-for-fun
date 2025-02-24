@@ -5,7 +5,8 @@ import java.io.Serializable;
 import java.util.List;
 
 import javax.ejb.EJB;
-import javax.faces.bean.ManagedBean;
+import javax.ejb.Stateless;
+import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -17,7 +18,7 @@ import fun.simplyhaving.model.Customer;
 import fun.simplyhaving.service.CustomerService;
 
 @Path("/catalog")
-@ManagedBean
+@Stateless
 public class Catalog implements Serializable {
 
     @Context
@@ -28,10 +29,9 @@ public class Catalog implements Serializable {
 
     @GET
     @Path("/customers")
-    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
+    @Produces(MediaType.APPLICATION_JSON)
+    @Consumes(MediaType.APPLICATION_JSON)
     public List<Customer> getAllCustomers() {
-        System.out.println("==== Customer Service 2 ==="+customerService);
-
         return customerService.getAllCustomers();
     }
     
