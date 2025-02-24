@@ -27,7 +27,7 @@ public class CustomerEntity extends Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "CustomerID")
-    private Long id;
+    private Integer id;
     @Column(name="CompanyName",nullable = false, length = 40)
     @NotNull
     @Size(min = 1, max = 40)

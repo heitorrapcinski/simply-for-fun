@@ -2,7 +2,7 @@ package fun.simplyhaving.model;
 
 public class Customer {
     
-    private Long id;
+    private Integer id;
     private String companyName;
     private String contactTitle;
     private String contactName;
@@ -14,10 +14,10 @@ public class Customer {
     private String phone;
     private String fax;
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
     public String getCompanyName() {

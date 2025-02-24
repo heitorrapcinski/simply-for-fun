@@ -6,7 +6,7 @@ import fun.simplyhaving.model.Customer;
 
 public interface CustomerRepository {
 
-	public Customer findById(Long id);
+	public Customer findById(Integer id);
 
 	public List<Customer> findAll();
 

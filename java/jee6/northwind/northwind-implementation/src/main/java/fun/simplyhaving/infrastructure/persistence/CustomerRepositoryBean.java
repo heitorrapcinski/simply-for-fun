@@ -20,7 +20,7 @@ public class CustomerRepositoryBean implements CustomerRepository {
 	private EntityManager em;
 
 	@Override
-	public Customer findById(Long id) {
+	public Customer findById(Integer id) {
         if (id == null)
             throw new IllegalArgumentException("Customer Id is null");
 

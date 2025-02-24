@@ -42,12 +42,12 @@ public class CustomerServiceBean implements CustomerService {
 	}
 
 	@Override
-	public Customer getCustomerById(Long id) {
+	public Customer getCustomerById(Integer id) {
 		return customerRepository.findById(id);
 	}
 
 	@Override
-	public void removeCustomer(Long id) {
+	public void removeCustomer(Integer id) {
 		customerRepository.remove(getCustomerById(id));
 	}
 
