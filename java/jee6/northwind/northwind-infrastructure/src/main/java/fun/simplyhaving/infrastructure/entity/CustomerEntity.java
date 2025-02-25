@@ -1,4 +1,4 @@
-package fun.simplyhaving.infrastructure.persistence;
+package fun.simplyhaving.infrastructure.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -17,7 +17,7 @@ import fun.simplyhaving.model.Customer;
         @NamedQuery(name = CustomerEntity.FIND_BY_ID, query = "SELECT c FROM Customer c WHERE c.id = :id"),
         @NamedQuery(name = CustomerEntity.FIND_ALL, query = "SELECT c FROM Customer c")
 })
-public class CustomerEntity extends Customer {
+public class CustomerEntity {
 
     public static final String FIND_BY_ID = "Customer.findById";
     public static final String FIND_ALL = "Customer.findAll";
@@ -25,28 +25,28 @@ public class CustomerEntity extends Customer {
     @Id
     @Column(name = "CustomerID", columnDefinition = "NCHAR(5)", length = 5, nullable = false)
     private String id;
-    @Column(name="CompanyName",nullable = false, length = 40)
+    @Column(name = "CompanyName", nullable = false, length = 40)
     @NotNull
     @Size(min = 1, max = 40)
     private String companyName;
-    @Column(name="ContactTitle",length = 30)
+    @Column(name = "ContactTitle", length = 30)
     private String contactTitle;
-    @Column(name="ContactName",length = 30)
+    @Column(name = "ContactName", length = 30)
     private String contactName;
-    @Column(name="Address",length = 60)
+    @Column(name = "Address", length = 60)
     private String address;
-    @Column(name="City",length = 15)
+    @Column(name = "City", length = 15)
     private String city;
-    @Column(name="Region",length = 15)
+    @Column(name = "Region", length = 15)
     private String region;
-    @Column(name="PostalCode",length = 10)
+    @Column(name = "PostalCode", length = 10)
     private String postalCode;
-    @Column(name="Country",length = 15)
+    @Column(name = "Country", length = 15)
     private String country;
-    @Column(name="Phone",length = 24)
+    @Column(name = "Phone", length = 24)
     private String phone;
-    @Column(name="Fax",length = 24)
-    private String fax;    
+    @Column(name = "Fax", length = 24)
+    private String fax;
 
     public CustomerEntity() {
         super();
@@ -66,14 +66,105 @@ public class CustomerEntity extends Customer {
         this.phone = customer.getPhone();
         this.fax = customer.getFax();
     }
-    
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getCompanyName() {
+        return companyName;
+    }
+
+    public void setCompanyName(String companyName) {
+        this.companyName = companyName;
+    }
+
+    public String getContactName() {
+        return contactName;
+    }
+
+    public void setContactName(String contactName) {
+        this.contactName = contactName;
+    }
+
+    public String getContactTitle() {
+        return contactTitle;
+    }
+
+    public void setContactTitle(String contactTitle) {
+        this.contactTitle = contactTitle;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getRegion() {
+        return region;
+    }
+
+    public void setRegion(String region) {
+        this.region = region;
+    }
+
+    public String getPostalCode() {
+        return postalCode;
+    }
+
+    public void setPostalCode(String postalCode) {
+        this.postalCode = postalCode;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
+    public String getFax() {
+        return fax;
+    }
+
+    public void setFax(String fax) {
+        this.fax = fax;
+    }
+
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Customer)) return false;
+        if (this == o)
+            return true;
+        if (!(o instanceof Customer))
+            return false;
 
         Customer customer = (Customer) o;
 
-        if (!id.equals(customer.getId())) return false;
+        if (!id.equals(customer.getId()))
+            return false;
 
         return true;
     }

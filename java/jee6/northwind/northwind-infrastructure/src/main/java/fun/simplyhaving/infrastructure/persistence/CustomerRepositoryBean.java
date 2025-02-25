@@ -10,8 +10,9 @@ import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
 
+import fun.simplyhaving.repository.CustomerRepository;
+import fun.simplyhaving.infrastructure.entity.CustomerEntity;
 import fun.simplyhaving.model.Customer;
-import fun.simplyhaving.infrastructure.CustomerRepository;
 
 @Stateless
 @Local(value=CustomerRepository.class)

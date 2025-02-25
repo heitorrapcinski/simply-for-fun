@@ -7,7 +7,7 @@ import javax.ejb.Local;
 import javax.ejb.Stateless;
 
 import fun.simplyhaving.model.Customer;
-import fun.simplyhaving.infrastructure.CustomerRepository;
+import fun.simplyhaving.repository.CustomerRepository;
 import fun.simplyhaving.service.CustomerService;
 
 @Stateless

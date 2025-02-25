@@ -1,4 +1,4 @@
-package fun.simplyhaving.infrastructure;
+package fun.simplyhaving.repository;
 
 import java.util.List;
 
