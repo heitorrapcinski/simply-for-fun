@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
   
   <name>northwind</name>
-  <description>JEE 6 Sample with Northwind Database</description>
+  <description>Northwind - JEE 6</description>
   
   <properties>
     <encoding.default>UTF-8</encoding.default>
