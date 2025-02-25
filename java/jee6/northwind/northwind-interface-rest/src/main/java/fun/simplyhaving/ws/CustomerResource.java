@@ -32,7 +32,6 @@ public class CustomerResource implements Serializable {
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
     public List<Customer> getAllCustomers() {
-        System.out.println("===> CustomerResource getAllCustomers");
         return customerService.getAllCustomers();
     }
     

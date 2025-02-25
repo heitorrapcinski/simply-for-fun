@@ -37,7 +37,6 @@ public class CustomerServiceBean implements CustomerService {
 	}
 
 	public List<Customer> getAllCustomers() {
-		System.out.println("===> CustomerService getAllCustomers");
 		return customerRepository.findAll();
 	}
 

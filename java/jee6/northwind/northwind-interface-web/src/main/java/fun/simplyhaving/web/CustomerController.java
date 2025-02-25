@@ -16,9 +16,13 @@ public class CustomerController {
     @EJB
     private CustomerService customerService;
 
+    private List<Customer> customers;
+
     public List<Customer> getAllCustomers() {
-        System.out.println("===> CustomerController getAllCustomers");
-        return customerService.getAllCustomers();
+        if (customers == null) {
+            customers = customerService.getAllCustomers();
+        }
+        return customers;
     }
 
 }
