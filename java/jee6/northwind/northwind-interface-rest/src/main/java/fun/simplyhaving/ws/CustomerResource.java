@@ -1,4 +1,4 @@
-package fun.simplyhaving.inbound;
+package fun.simplyhaving.ws;
 
 
 import java.io.Serializable;
@@ -17,9 +17,9 @@ import javax.ws.rs.core.UriInfo;
 import fun.simplyhaving.model.Customer;
 import fun.simplyhaving.service.CustomerService;
 
-@Path("/catalog")
+@Path("/customer")
 @Stateless
-public class Catalog implements Serializable {
+public class CustomerResource implements Serializable {
 
     @Context
     private UriInfo uriInfo;

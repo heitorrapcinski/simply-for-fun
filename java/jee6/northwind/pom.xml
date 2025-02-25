@@ -1,14 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
   <modelVersion>4.0.0</modelVersion>
   <groupId>fun.simplyhaving</groupId>
   <artifactId>northwind</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
   <name>northwind</name>
   <description>JEE 6 Sample with Northwind Database</description>
+  
   <properties>
     <encoding.default>UTF-8</encoding.default>
   </properties>
+  
   <build>
     <resources>
       <resource>
@@ -104,6 +111,7 @@
       </plugin>
     </plugins>
   </build>
+
   <dependencies>
     <dependency>
       <groupId>log4j</groupId>
@@ -124,11 +132,14 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+  
   <modules>
     <module>northwind-domain</module>
-    <module>northwind-implementation</module>
+    <module>northwind-application</module>
+    <module>northwind-infrastructure</module>
     <module>northwind-interface-web</module>
     <module>northwind-interface-rest</module>
-    <module>northwind-app</module>
+    <module>northwind-xbuild</module>
   </modules>
+
 </project>

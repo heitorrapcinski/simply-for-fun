@@ -9,11 +9,8 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	
-	<artifactId>northwind-implementation</artifactId>
-	<description>
-		Application Layer: Defines use cases and coordinates interactions with the domain.
-		Infrastructure Layer: Manages technical details such as persistence and external integrations.
-	</description>
+	<artifactId>northwind-infrastructure</artifactId>
+	<description>Infrastructure Layer: Manages technical details such as persistence and external integrations.</description>
 	<packaging>ejb</packaging>
 	
 	<build>

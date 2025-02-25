@@ -1,4 +1,4 @@
-package fun.simplyhaving.inbound;
+package fun.simplyhaving.web;
 
 import java.util.List;
 

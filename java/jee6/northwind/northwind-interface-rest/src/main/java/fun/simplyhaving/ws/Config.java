@@ -1,4 +1,4 @@
-package fun.simplyhaving.inbound;
+package fun.simplyhaving.ws;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,7 +12,7 @@ public class Config extends Application {
     @Override
     public Set<Class<?>> getClasses() {
         Set<Class<?>> classes = new HashSet<Class<?>>();
-        classes.add(Catalog.class);
+        classes.add(CustomerResource.class);
         return classes;
     }
 

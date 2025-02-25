@@ -9,7 +9,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>northwind-app</artifactId>
+	<artifactId>northwind-xbuild</artifactId>
 	<packaging>ear</packaging>
 	
 	<build>
@@ -31,8 +31,12 @@
 						</jarModule>
 						<ejbModule>
 							<groupId>fun.simplyhaving</groupId>
-							<artifactId>northwind-implementation</artifactId>
+							<artifactId>northwind-application</artifactId>
 						</ejbModule>
+						<ejbModule>
+							<groupId>fun.simplyhaving</groupId>
+							<artifactId>northwind-infrastructure</artifactId>
+						</ejbModule>						
 						<ejbModule>
 							<groupId>fun.simplyhaving</groupId>
 							<artifactId>northwind-interface-rest</artifactId>
@@ -56,7 +60,13 @@
 		</dependency>	
 		<dependency>
 			<groupId>fun.simplyhaving</groupId>
-			<artifactId>northwind-implementation</artifactId>
+			<artifactId>northwind-application</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>fun.simplyhaving</groupId>
+			<artifactId>northwind-infrastructure</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 			<type>ejb</type>
 		</dependency>
