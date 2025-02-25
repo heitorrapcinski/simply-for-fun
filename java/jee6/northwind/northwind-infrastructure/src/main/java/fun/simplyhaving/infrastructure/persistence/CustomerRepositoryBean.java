@@ -36,6 +36,7 @@ public class CustomerRepositoryBean implements CustomerRepository {
 	}
 
 	public List<Customer> findAll() {
+        System.out.println("===> CustomerRepository findAll");
         TypedQuery<CustomerEntity> typedQuery = em.createNamedQuery(CustomerEntity.FIND_ALL, CustomerEntity.class);
         List<CustomerEntity> entityList = typedQuery.getResultList();
 

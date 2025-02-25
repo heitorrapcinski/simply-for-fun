@@ -17,7 +17,6 @@ public class CustomerServiceBean implements CustomerService {
 	@EJB
 	private CustomerRepository customerRepository;
 
-	@Override
 	public Customer createCustomer(String id, String companyName, String contactTitle, String contactName, String address,
 			String city, String region, String postalCode, String country, String phone, String fax) {
 		
@@ -37,22 +36,19 @@ public class CustomerServiceBean implements CustomerService {
 		return customerRepository.save(customer);
 	}
 
-	@Override
 	public List<Customer> getAllCustomers() {
+		System.out.println("===> CustomerService getAllCustomers");
 		return customerRepository.findAll();
 	}
 
-	@Override
 	public Customer getCustomerById(String id) {
 		return customerRepository.findById(id);
 	}
 
-	@Override
 	public void removeCustomer(String id) {
 		customerRepository.remove(getCustomerById(id));
 	}
 
-	@Override
 	public Customer updateCustomer(Customer customer) {
 		return customerRepository.save(customer);
 	}

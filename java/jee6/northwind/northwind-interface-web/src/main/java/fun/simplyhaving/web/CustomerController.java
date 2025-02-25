@@ -17,6 +17,7 @@ public class CustomerController {
     private CustomerService customerService;
 
     public List<Customer> getAllCustomers() {
+        System.out.println("===> CustomerController getAllCustomers");
         return customerService.getAllCustomers();
     }
 
